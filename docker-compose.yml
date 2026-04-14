@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    command: uvicorn api:app --host 0.0.0.0 --port 8000
+    volumes:
+      - ./proxies.db:/app/proxies.db
+  scheduler:
+    build: .
+    command: python scheduler.py
+    volumes:
+      - ./proxies.db:/app/proxies.db
