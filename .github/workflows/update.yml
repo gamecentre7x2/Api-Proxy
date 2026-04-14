@@ -1,0 +1,58 @@
+name: Update Proxies and Push JSON
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Mỗi giờ
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper and checker
+        run: |
+          python -c "
+          import asyncio
+          from scraper import scrape_all_sources
+          from checker import check_batch
+          from database import init_db, insert_proxy
+          import json
+          from datetime import datetime
+
+          async def run():
+              await init_db()
+              raw = await scrape_all_sources()
+              print(f'Scraped {len(raw)}')
+              valid = await check_batch(list(raw), concurrency=100)
+              print(f'Valid {len(valid)}')
+              for v in valid:
+                  await insert_proxy(v)
+              # Export to proxies.json
+              export_data = [{'proxy': f'{p.protocol.value}://{p.ip}:{p.port}',
+                              'protocol': p.protocol.value,
+                              'anonymity': p.anonymity.value,
+                              'response_time': p.response_time} for p in valid]
+              with open('proxies.json', 'w') as f:
+                  json.dump(export_data, f, indent=2)
+              # Optional: also export SQLite DB for persistence
+          asyncio.run(run())
+          "
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add proxies.json proxies.db
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update proxies $(date -Iminutes)" && git push)
