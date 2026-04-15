@@ -1,3266 +1,3296 @@
 [
   {
-    "proxy": "socks4://142.54.235.9:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 424.81160163879395
-  },
-  {
-    "proxy": "socks5://72.195.34.59:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 588.4099006652832
-  },
-  {
-    "proxy": "socks5://20.127.128.70:8080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1273.9713191986084
-  },
-  {
-    "proxy": "socks5://184.178.172.17:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 762.4061107635498
-  },
-  {
-    "proxy": "socks5://38.12.27.49:58367",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1483.358383178711
-  },
-  {
-    "proxy": "socks5://72.37.216.68:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 687.5486373901367
-  },
-  {
-    "proxy": "socks5://206.123.156.227:7215",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1722.6533889770508
-  },
-  {
-    "proxy": "socks5://104.248.203.234:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 540.1039123535156
-  },
-  {
-    "proxy": "socks4://142.54.226.214:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 496.7672824859619
-  },
-  {
-    "proxy": "socks4://98.188.47.132:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 714.6420478820801
-  },
-  {
-    "proxy": "http://167.103.115.102:8800",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 924.8435497283936
-  },
-  {
-    "proxy": "http://5.104.87.17:8051",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1395.7369327545166
-  },
-  {
-    "proxy": "socks4://184.178.172.13:15311",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 435.6100559234619
-  },
-  {
-    "proxy": "socks5://184.181.217.201:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 664.7813320159912
-  },
-  {
-    "proxy": "socks5://199.116.114.11:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1595.0138568878174
-  },
-  {
-    "proxy": "socks5://67.201.35.145:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 568.5579776763916
-  },
-  {
-    "proxy": "socks5://185.156.108.19:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 905.0848484039307
-  },
-  {
-    "proxy": "socks5://121.169.46.116:1090",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2662.365674972534
-  },
-  {
-    "proxy": "socks4://104.200.152.30:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 444.51332092285156
-  },
-  {
-    "proxy": "socks4://142.54.237.38:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 473.65522384643555
-  },
-  {
-    "proxy": "socks5://68.71.247.130:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 508.7590217590332
-  },
-  {
-    "proxy": "socks5://67.201.33.10:25283",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 593.4455394744873
-  },
-  {
-    "proxy": "http://38.252.213.66:999",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1231.0173511505127
-  },
-  {
-    "proxy": "socks4://104.200.135.46:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 576.225757598877
-  },
-  {
-    "proxy": "socks5://72.207.109.5:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 522.4153995513916
-  },
-  {
-    "proxy": "socks5://68.71.243.14:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 488.7411594390869
-  },
-  {
-    "proxy": "socks5://152.53.144.223:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 607.224702835083
-  },
-  {
-    "proxy": "socks4://142.54.228.193:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 379.4360160827637
-  },
-  {
-    "proxy": "socks5://206.123.156.214:5937",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2277.329444885254
-  },
-  {
-    "proxy": "socks4://184.178.172.26:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 564.9654865264893
-  },
-  {
-    "proxy": "http://152.32.132.190:7890",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 900.7856845855713
-  },
-  {
-    "proxy": "socks4://192.111.139.163:19404",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 403.08308601379395
-  },
-  {
-    "proxy": "socks5://184.178.172.13:15311",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 523.7934589385986
-  },
-  {
-    "proxy": "socks5://149.62.186.244:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 872.2455501556396
-  },
-  {
-    "proxy": "socks5://174.64.199.79:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 652.3587703704834
-  },
-  {
-    "proxy": "socks5://198.8.94.174:39078",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 391.5393352508545
-  },
-  {
-    "proxy": "socks5://147.45.167.74:1081",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 597.8660583496094
-  },
-  {
-    "proxy": "socks5://24.249.199.12:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 525.2745151519775
-  },
-  {
-    "proxy": "socks4://206.220.175.2:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 552.452802658081
-  },
-  {
-    "proxy": "socks4://198.8.94.174:39078",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 347.37396240234375
-  },
-  {
-    "proxy": "socks5://142.54.231.38:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1072.0973014831543
-  },
-  {
-    "proxy": "socks5://72.205.0.93:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 521.759033203125
-  },
-  {
-    "proxy": "socks5://206.123.156.226:4066",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 687.5283718109131
-  },
-  {
-    "proxy": "socks5://98.170.57.231:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 528.3455848693848
-  },
-  {
-    "proxy": "socks4://174.64.199.82:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 561.495304107666
-  },
-  {
-    "proxy": "http://212.252.71.20:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1582.3974609375
-  },
-  {
-    "proxy": "http://103.177.20.21:8181",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1222.9487895965576
-  },
-  {
-    "proxy": "http://101.255.158.173:1111",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1169.0635681152344
-  },
-  {
-    "proxy": "http://103.156.233.57:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2802.591323852539
-  },
-  {
-    "proxy": "socks4://98.181.137.80:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 661.6678237915039
-  },
-  {
-    "proxy": "http://103.172.42.125:1111",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2703.087329864502
-  },
-  {
-    "proxy": "socks4://161.97.78.88:9050",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 1842.2996997833252
-  },
-  {
-    "proxy": "socks4://185.132.178.178:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 412.04833984375
-  },
-  {
-    "proxy": "socks5://67.201.59.70:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 471.74715995788574
-  },
-  {
-    "proxy": "http://113.160.132.26:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1278.517246246338
-  },
-  {
-    "proxy": "socks5://37.18.73.60:5566",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1125.4868507385254
-  },
-  {
-    "proxy": "socks4://98.182.147.97:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 580.6543827056885
-  },
-  {
-    "proxy": "socks4://216.68.128.121:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 540.5516624450684
-  },
-  {
-    "proxy": "socks5://5.255.103.55:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 571.0954666137695
-  },
-  {
-    "proxy": "socks4://142.54.237.34:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 512.6087665557861
-  },
-  {
-    "proxy": "socks4://199.102.107.145:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 557.0533275604248
-  },
-  {
-    "proxy": "socks4://72.207.113.97:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 563.0838871002197
-  },
-  {
-    "proxy": "http://103.70.114.80:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1358.1676483154297
-  },
-  {
-    "proxy": "socks4://72.195.114.169:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 441.98036193847656
-  },
-  {
-    "proxy": "socks5://68.71.245.206:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1292.0048236846924
-  },
-  {
-    "proxy": "socks5://145.239.20.85:8889",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 670.9845066070557
-  },
-  {
-    "proxy": "socks5://192.111.129.150:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 413.7098789215088
-  },
-  {
-    "proxy": "socks5://147.45.167.84:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 565.4692649841309
-  },
-  {
-    "proxy": "socks5://199.102.104.70:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 469.9854850769043
-  },
-  {
-    "proxy": "socks4://193.233.254.57:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 956.2258720397949
-  },
-  {
-    "proxy": "socks5://172.81.111.156:10001",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1099.8170375823975
-  },
-  {
-    "proxy": "socks4://162.253.68.97:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 604.3760776519775
-  },
-  {
-    "proxy": "socks5://192.252.208.70:14282",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 397.83763885498047
-  },
-  {
-    "proxy": "socks5://144.31.27.49:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 590.3332233428955
-  },
-  {
-    "proxy": "socks5://206.123.156.228:4363",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2515.2432918548584
-  },
-  {
-    "proxy": "socks5://68.71.252.38:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 570.3742504119873
-  },
-  {
-    "proxy": "socks5://70.166.167.38:57728",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 567.8060054779053
-  },
-  {
-    "proxy": "http://150.107.140.238:3128",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1063.6894702911377
-  },
-  {
-    "proxy": "socks5://72.37.217.3:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 665.2824878692627
-  },
-  {
-    "proxy": "socks4://69.61.200.104:36181",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 582.7383995056152
-  },
-  {
-    "proxy": "socks5://13.53.139.178:3128",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 430.75037002563477
-  },
-  {
-    "proxy": "socks5://85.208.51.165:443",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1112.5047206878662
-  },
-  {
-    "proxy": "socks5://68.71.249.158:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 671.3800430297852
-  },
-  {
-    "proxy": "socks4://142.54.229.249:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 459.05470848083496
-  },
-  {
-    "proxy": "http://103.199.117.110:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2052.9398918151855
-  },
-  {
-    "proxy": "http://120.92.212.16:8890",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2819.7731971740723
-  },
-  {
-    "proxy": "socks5://213.165.58.7:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1029.0186405181885
-  },
-  {
-    "proxy": "http://93.185.159.72:3128",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 620.9392547607422
-  },
-  {
-    "proxy": "socks5://72.195.101.99:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 660.2563858032227
-  },
-  {
-    "proxy": "socks5://192.111.137.35:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 757.3492527008057
-  },
-  {
-    "proxy": "http://159.223.225.118:8888",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1514.0349864959717
-  },
-  {
-    "proxy": "http://185.76.240.134:10002",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2461.864233016968
-  },
-  {
-    "proxy": "socks4://36.103.198.235:7890",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 2460.2572917938232
-  },
-  {
-    "proxy": "socks4://98.175.31.195:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 563.6196136474609
-  },
-  {
-    "proxy": "socks5://98.181.137.80:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 972.3587036132812
-  },
-  {
-    "proxy": "socks5://184.170.245.148:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1551.1999130249023
-  },
-  {
-    "proxy": "socks5://192.111.139.162:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 388.19265365600586
-  },
-  {
-    "proxy": "socks4://192.252.215.2:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 966.698169708252
-  },
-  {
-    "proxy": "socks4://194.87.85.207:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 707.9982757568359
-  },
-  {
-    "proxy": "socks4://184.178.172.14:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 667.9508686065674
-  },
-  {
-    "proxy": "socks5://103.174.122.197:8199",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1462.0723724365234
-  },
-  {
-    "proxy": "socks5://72.195.114.169:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 531.5608978271484
-  },
-  {
-    "proxy": "socks5://184.182.240.211:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 828.9923667907715
-  },
-  {
-    "proxy": "socks5://107.152.98.5:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 529.9632549285889
-  },
-  {
-    "proxy": "socks4://72.195.34.58:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 571.5351104736328
-  },
-  {
-    "proxy": "socks4://192.252.208.70:14282",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 327.9862403869629
-  },
-  {
-    "proxy": "http://140.238.242.189:8100",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1123.4474182128906
-  },
-  {
-    "proxy": "socks4://192.252.209.155:14455",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 383.38351249694824
-  },
-  {
-    "proxy": "socks5://174.75.211.193:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 528.7964344024658
-  },
-  {
-    "proxy": "http://200.24.130.145:999",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2917.008399963379
-  },
-  {
-    "proxy": "socks5://199.102.106.94:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 500.34189224243164
-  },
-  {
-    "proxy": "socks5://72.49.49.11:31034",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 682.9984188079834
-  },
-  {
-    "proxy": "socks5://72.207.33.64:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 542.1345233917236
-  },
-  {
-    "proxy": "http://115.191.40.196:7890",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2348.0772972106934
-  },
-  {
-    "proxy": "socks4://74.119.144.60:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 439.76712226867676
-  },
-  {
-    "proxy": "socks4://98.188.47.150:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 437.09540367126465
-  },
-  {
-    "proxy": "socks4://184.182.240.12:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 828.7234306335449
-  },
-  {
-    "proxy": "http://181.188.203.88:999",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2124.2523193359375
-  },
-  {
-    "proxy": "http://167.103.34.108:8800",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 971.6084003448486
-  },
-  {
-    "proxy": "socks4://72.195.34.42:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 511.4426612854004
-  },
-  {
-    "proxy": "socks5://40.177.211.224:39805",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 312.7245903015137
-  },
-  {
-    "proxy": "socks5://174.77.111.197:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 526.5138149261475
-  },
-  {
-    "proxy": "socks5://186.219.98.195:6881",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 893.49365234375
-  },
-  {
-    "proxy": "socks5://141.105.69.29:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 757.875919342041
-  },
-  {
-    "proxy": "socks4://198.8.84.3:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 754.7805309295654
-  },
-  {
-    "proxy": "socks5://199.58.184.97:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 390.00630378723145
-  },
-  {
-    "proxy": "socks5://184.181.217.220:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 651.252269744873
-  },
-  {
-    "proxy": "http://200.24.130.146:999",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2554.5387268066406
-  },
-  {
-    "proxy": "socks5://203.25.208.163:1100",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1506.5598487854004
-  },
-  {
-    "proxy": "socks4://72.195.34.41:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 439.01777267456055
-  },
-  {
-    "proxy": "socks5://142.54.228.193:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 618.8955307006836
-  },
-  {
-    "proxy": "socks5://206.123.156.222:4966",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2975.7206439971924
-  },
-  {
-    "proxy": "socks5://192.252.211.197:14921",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 609.21311378479
-  },
-  {
-    "proxy": "socks5://202.141.161.53:10808",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2290.8434867858887
-  },
-  {
-    "proxy": "socks5://123.136.24.161:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2960.7107639312744
-  },
-  {
-    "proxy": "socks4://213.165.58.7:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 623.8467693328857
-  },
-  {
-    "proxy": "socks4://68.71.249.153:48606",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 447.76439666748047
-  },
-  {
-    "proxy": "http://34.71.229.255:3128",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 584.230899810791
-  },
-  {
-    "proxy": "socks4://68.71.252.38:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 496.929407119751
-  },
-  {
-    "proxy": "socks4://193.233.254.77:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 1009.5648765563965
-  },
-  {
-    "proxy": "socks4://158.160.254.144:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 1367.342233657837
-  },
-  {
-    "proxy": "socks4://84.47.150.125:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 528.3095836639404
-  },
-  {
-    "proxy": "socks4://184.181.217.213:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 581.0256004333496
-  },
-  {
-    "proxy": "socks5://68.1.210.163:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 528.0828475952148
-  },
-  {
-    "proxy": "socks5://142.54.226.214:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 706.437349319458
-  },
-  {
-    "proxy": "socks5://192.111.137.37:18762",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 431.3187599182129
-  },
-  {
-    "proxy": "socks5://206.123.156.190:8679",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1493.3152198791504
-  },
-  {
-    "proxy": "socks4://147.45.167.84:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 720.2613353729248
-  },
-  {
-    "proxy": "socks4://152.70.237.238:3128",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 1714.540958404541
-  },
-  {
-    "proxy": "http://49.48.69.180:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2787.9421710968018
-  },
-  {
-    "proxy": "socks4://67.201.59.70:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 382.0993900299072
-  },
-  {
-    "proxy": "socks5://72.205.0.67:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 783.7285995483398
-  },
-  {
-    "proxy": "socks5://103.189.218.158:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2898.421049118042
-  },
-  {
-    "proxy": "http://144.31.27.49:1080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 477.6115417480469
-  },
-  {
-    "proxy": "socks4://199.116.114.11:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 418.1797504425049
-  },
-  {
-    "proxy": "http://170.78.208.245:999",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2187.1707439422607
-  },
-  {
-    "proxy": "socks5://184.178.172.11:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 534.9564552307129
-  },
-  {
-    "proxy": "socks5://162.253.68.97:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 550.1606464385986
-  },
-  {
-    "proxy": "socks5://192.252.215.2:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 390.1710510253906
-  },
-  {
-    "proxy": "http://38.172.160.16:999",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2570.843458175659
-  },
-  {
-    "proxy": "socks5://203.25.208.163:1111",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1495.049238204956
-  },
-  {
-    "proxy": "http://147.161.239.240:8800",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 363.6050224304199
-  },
-  {
-    "proxy": "socks4://68.71.245.206:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 412.7068519592285
-  },
-  {
-    "proxy": "socks5://157.230.178.188:20656",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 458.3113193511963
-  },
-  {
-    "proxy": "socks5://36.103.198.235:7890",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1334.7420692443848
-  },
-  {
-    "proxy": "socks5://98.191.0.37:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 628.6840438842773
-  },
-  {
-    "proxy": "socks5://184.95.220.42:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 175.18305778503418
-  },
-  {
-    "proxy": "http://43.156.32.224:8081",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 900.2699851989746
-  },
-  {
-    "proxy": "socks5://221.225.48.93:8989",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1591.1054611206055
-  },
-  {
-    "proxy": "socks5://216.68.128.121:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 889.3961906433105
-  },
-  {
-    "proxy": "socks5://68.1.210.189:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 531.3591957092285
-  },
-  {
-    "proxy": "socks4://193.23.194.147:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 680.5136203765869
-  },
-  {
-    "proxy": "socks4://144.31.159.73:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 2742.7475452423096
-  },
-  {
-    "proxy": "socks4://193.233.254.38:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 619.2893981933594
-  },
-  {
-    "proxy": "socks5://110.235.248.142:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2613.351583480835
-  },
-  {
-    "proxy": "socks5://68.71.254.6:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 731.2991619110107
-  },
-  {
-    "proxy": "http://218.108.131.186:17890",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1016.9978141784668
-  },
-  {
-    "proxy": "socks5://68.71.242.118:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 442.4254894256592
-  },
-  {
-    "proxy": "socks4://98.170.57.249:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 575.5875110626221
-  },
-  {
-    "proxy": "http://83.219.250.8:62920",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 501.2550354003906
-  },
-  {
-    "proxy": "http://157.230.178.216:8088",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2040.0114059448242
-  },
-  {
-    "proxy": "http://158.160.215.167:8124",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2810.791015625
-  },
-  {
-    "proxy": "socks5://38.19.236.55:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2499.926805496216
-  },
-  {
-    "proxy": "socks5://199.116.112.6:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 496.25563621520996
-  },
-  {
-    "proxy": "socks5://212.34.146.118:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 958.0361843109131
-  },
-  {
-    "proxy": "socks5://98.188.47.132:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 687.3843669891357
-  },
-  {
-    "proxy": "socks5://192.111.134.10:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 461.3075256347656
-  },
-  {
-    "proxy": "socks5://142.54.232.6:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 595.9529876708984
-  },
-  {
-    "proxy": "socks5://206.123.156.185:8995",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 990.8261299133301
-  },
-  {
-    "proxy": "socks5://174.75.211.222:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 663.5549068450928
-  },
-  {
-    "proxy": "http://114.118.82.146:80",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1217.3652648925781
-  },
-  {
-    "proxy": "socks4://174.77.111.198:49547",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 620.2926635742188
-  },
-  {
-    "proxy": "socks4://147.45.214.210:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 654.1271209716797
-  },
-  {
-    "proxy": "socks4://192.111.129.150:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 320.91569900512695
-  },
-  {
-    "proxy": "socks4://67.201.35.145:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 369.1103458404541
-  },
-  {
-    "proxy": "socks5://65.20.105.241:10001",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2489.572048187256
-  },
-  {
-    "proxy": "socks5://3.145.87.184:8966",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 101.37009620666504
-  },
-  {
-    "proxy": "socks4://13.60.163.108:3128",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 557.1167469024658
-  },
-  {
-    "proxy": "socks5://206.123.156.204:6636",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2164.5710468292236
-  },
-  {
-    "proxy": "socks5://45.94.47.227:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 853.2547950744629
-  },
-  {
-    "proxy": "socks5://192.111.129.145:16894",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 391.77489280700684
-  },
-  {
-    "proxy": "socks4://192.111.135.18:18301",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 404.0179252624512
-  },
-  {
-    "proxy": "socks5://192.252.216.81:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 401.3960361480713
-  },
-  {
-    "proxy": "socks5://192.252.208.67:14287",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 386.1210346221924
-  },
-  {
-    "proxy": "socks5://184.178.172.25:15291",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 528.7213325500488
-  },
-  {
-    "proxy": "socks4://192.252.220.92:17328",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 386.87872886657715
-  },
-  {
-    "proxy": "socks5://98.182.147.97:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 531.7535400390625
-  },
-  {
-    "proxy": "http://5.255.123.43:1080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 920.4657077789307
-  },
-  {
-    "proxy": "http://1.231.81.166:3128",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1794.006109237671
-  },
-  {
-    "proxy": "http://167.103.31.122:8800",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1325.1848220825195
-  },
-  {
-    "proxy": "socks4://72.37.216.68:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 408.7514877319336
-  },
-  {
-    "proxy": "socks5://13.60.163.108:3128",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 443.603515625
-  },
-  {
-    "proxy": "socks4://72.205.0.67:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 446.5906620025635
-  },
-  {
-    "proxy": "socks5://206.123.156.224:4774",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2729.5761108398438
-  },
-  {
-    "proxy": "socks5://184.181.217.210:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 527.9066562652588
-  },
-  {
-    "proxy": "http://194.87.26.83:3128",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 563.5194778442383
-  },
-  {
-    "proxy": "socks5://213.165.58.5:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1613.635778427124
-  },
-  {
-    "proxy": "socks5://192.252.216.86:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 446.92540168762207
-  },
-  {
-    "proxy": "socks4://85.239.59.252:7890",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 496.5362548828125
-  },
-  {
-    "proxy": "socks4://98.170.57.231:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 435.9114170074463
-  },
-  {
-    "proxy": "socks5://38.76.150.136:5555",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 364.7935390472412
-  },
-  {
-    "proxy": "socks4://103.229.126.221:7890",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 1160.7892513275146
-  },
-  {
-    "proxy": "socks4://51.17.154.141:3128",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 418.34139823913574
-  },
-  {
-    "proxy": "socks5://213.165.58.6:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 985.515832901001
-  },
-  {
-    "proxy": "socks5://147.45.214.210:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1922.997236251831
-  },
-  {
-    "proxy": "socks5://154.13.149.118:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 919.8291301727295
-  },
-  {
-    "proxy": "socks5://192.252.209.155:14455",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 397.43733406066895
-  },
-  {
-    "proxy": "socks5://184.181.178.33:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 675.5447387695312
-  },
-  {
-    "proxy": "socks5://72.214.108.67:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 545.8071231842041
-  },
-  {
     "proxy": "socks5://107.181.161.81:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 556.8315982818604
-  },
-  {
-    "proxy": "socks5://192.111.130.5:17002",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 531.9094657897949
-  },
-  {
-    "proxy": "socks4://192.111.135.17:18302",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 325.176477432251
-  },
-  {
-    "proxy": "socks5://13.212.222.137:21637",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 909.2280864715576
-  },
-  {
-    "proxy": "socks5://206.123.156.215:6665",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1829.6318054199219
-  },
-  {
-    "proxy": "socks4://192.111.137.37:18762",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 362.20264434814453
-  },
-  {
-    "proxy": "socks5://206.123.156.222:5795",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2675.204277038574
-  },
-  {
-    "proxy": "socks4://184.178.172.11:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 715.505838394165
-  },
-  {
-    "proxy": "socks5://98.191.0.47:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 541.6843891143799
-  },
-  {
-    "proxy": "http://147.161.210.140:8800",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 658.4866046905518
-  },
-  {
-    "proxy": "socks4://3.239.171.226:38854",
-    "protocol": "socks4",
-    "anonymity": "anonymous",
-    "response_time": 21.08168601989746
-  },
-  {
-    "proxy": "socks4://67.201.33.10:25283",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 406.36754035949707
-  },
-  {
-    "proxy": "socks5://142.54.237.38:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 471.47274017333984
-  },
-  {
-    "proxy": "socks5://167.71.226.135:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1376.5063285827637
-  },
-  {
-    "proxy": "socks5://3.239.171.226:38854",
-    "protocol": "socks5",
-    "anonymity": "anonymous",
-    "response_time": 27.4200439453125
-  },
-  {
-    "proxy": "socks5://199.102.105.242:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 719.2325592041016
-  },
-  {
-    "proxy": "http://190.119.90.114:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2870.6352710723877
-  },
-  {
-    "proxy": "socks5://184.178.172.5:15303",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 540.9409999847412
-  },
-  {
-    "proxy": "socks5://206.123.156.231:4134",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2218.9300060272217
-  },
-  {
-    "proxy": "socks5://192.111.139.163:19404",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 411.55171394348145
-  },
-  {
-    "proxy": "socks5://206.123.156.206:4366",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 951.9550800323486
-  },
-  {
-    "proxy": "socks5://150.241.100.120:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1302.6280403137207
-  },
-  {
-    "proxy": "socks5://192.252.214.20:15864",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 428.2231330871582
-  },
-  {
-    "proxy": "http://149.51.42.10:3128",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 290.1170253753662
-  },
-  {
-    "proxy": "socks5://206.123.156.231:4373",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1698.8446712493896
-  },
-  {
-    "proxy": "socks5://206.123.156.180:32207",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2891.1585807800293
-  },
-  {
-    "proxy": "socks5://47.76.59.150:5555",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1890.1455402374268
-  },
-  {
-    "proxy": "socks4://142.54.232.6:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 504.4245719909668
-  },
-  {
-    "proxy": "socks5://72.195.34.42:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1546.7655658721924
-  },
-  {
-    "proxy": "socks5://212.58.132.5:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1801.5751838684082
-  },
-  {
-    "proxy": "socks4://142.54.231.38:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 355.3884029388428
-  },
-  {
-    "proxy": "socks5://206.123.156.212:5398",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2605.966091156006
-  },
-  {
-    "proxy": "socks5://203.189.135.140:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2557.621479034424
-  },
-  {
-    "proxy": "socks5://157.230.178.188:20798",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 608.2866191864014
-  },
-  {
-    "proxy": "socks5://208.102.51.6:58208",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 728.203296661377
-  },
-  {
-    "proxy": "socks5://206.123.156.225:5231",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2413.426160812378
-  },
-  {
-    "proxy": "socks4://199.58.185.9:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 321.1531639099121
-  },
-  {
-    "proxy": "http://103.156.14.165:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2937.3583793640137
-  },
-  {
-    "proxy": "socks4://93.85.87.50:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 638.8561725616455
-  },
-  {
-    "proxy": "http://185.76.240.128:10002",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 735.6505393981934
-  },
-  {
-    "proxy": "socks5://104.200.135.46:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 464.540958404541
-  },
-  {
-    "proxy": "http://103.175.236.221:3125",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2947.766065597534
-  },
-  {
-    "proxy": "socks4://192.111.134.10:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 1296.400547027588
-  },
-  {
-    "proxy": "socks5://144.124.227.88:3129",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1241.8124675750732
-  },
-  {
-    "proxy": "socks5://107.181.168.145:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 652.6861190795898
-  },
-  {
-    "proxy": "socks4://184.178.172.18:15280",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 654.0381908416748
-  },
-  {
-    "proxy": "http://20.127.128.70:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 862.025260925293
-  },
-  {
-    "proxy": "socks4://98.178.72.21:10919",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 705.7738304138184
-  },
-  {
-    "proxy": "socks5://142.54.237.34:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 457.09872245788574
-  },
-  {
-    "proxy": "socks5://192.252.215.5:16137",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1079.2210102081299
-  },
-  {
-    "proxy": "socks4://184.182.240.211:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 2596.062660217285
-  },
-  {
-    "proxy": "socks4://199.229.254.129:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 325.1972198486328
-  },
-  {
-    "proxy": "socks5://192.252.209.158:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 390.1324272155762
-  },
-  {
-    "proxy": "socks5://142.54.236.97:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 634.575605392456
-  },
-  {
-    "proxy": "http://167.103.144.127:8800",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 780.9338569641113
-  },
-  {
-    "proxy": "socks5://72.195.34.58:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 658.9300632476807
-  },
-  {
-    "proxy": "socks5://144.31.142.172:1904",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 897.6809978485107
-  },
-  {
-    "proxy": "socks5://47.237.77.205:1011",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2358.8826656341553
-  },
-  {
-    "proxy": "socks4://192.111.139.165:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 443.55010986328125
-  },
-  {
-    "proxy": "socks5://192.252.220.89:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 696.6497898101807
-  },
-  {
-    "proxy": "socks5://161.35.82.57:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 736.1414432525635
-  },
-  {
-    "proxy": "socks4://174.77.111.196:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 563.9877319335938
-  },
-  {
-    "proxy": "socks5://132.145.77.107:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 513.0312442779541
-  },
-  {
-    "proxy": "socks4://72.195.114.184:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 571.3355541229248
-  },
-  {
-    "proxy": "http://177.234.217.88:999",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2662.543773651123
-  },
-  {
-    "proxy": "http://150.241.116.228:3128",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2288.41233253479
-  },
-  {
-    "proxy": "socks5://212.193.3.103:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 558.6802959442139
-  },
-  {
-    "proxy": "socks5://199.58.185.9:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 575.2489566802979
-  },
-  {
-    "proxy": "socks5://157.230.178.188:20387",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1137.5250816345215
-  },
-  {
-    "proxy": "http://202.141.161.53:10808",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2061.582565307617
-  },
-  {
-    "proxy": "socks5://185.212.119.154:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 726.3028621673584
-  },
-  {
-    "proxy": "socks5://192.111.138.29:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 404.33669090270996
-  },
-  {
-    "proxy": "socks4://147.45.124.220:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 2358.217477798462
-  },
-  {
-    "proxy": "socks4://91.107.124.215:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 631.3979625701904
-  },
-  {
-    "proxy": "socks4://199.58.184.97:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 332.5543403625488
-  },
-  {
-    "proxy": "socks4://68.1.210.189:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 609.0583801269531
-  },
-  {
-    "proxy": "socks4://70.166.167.38:57728",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 443.53508949279785
-  },
-  {
-    "proxy": "http://197.164.101.14:1976",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2681.6983222961426
-  },
-  {
-    "proxy": "socks5://209.38.249.114:1082",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 759.2458724975586
-  },
-  {
-    "proxy": "socks4://98.181.137.83:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 627.723217010498
-  },
-  {
-    "proxy": "socks4://72.195.34.35:27360",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 442.83342361450195
-  },
-  {
-    "proxy": "socks5://67.201.39.14:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 436.23852729797363
-  },
-  {
-    "proxy": "http://125.163.141.78:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2902.829885482788
-  },
-  {
-    "proxy": "socks5://98.178.72.21:10919",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 527.5695323944092
-  },
-  {
-    "proxy": "socks5://184.178.172.3:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 541.8741703033447
-  },
-  {
-    "proxy": "http://133.18.110.87:1081",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1727.1368503570557
-  },
-  {
-    "proxy": "socks5://102.69.146.59:7080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2818.0747032165527
-  },
-  {
-    "proxy": "http://188.132.222.169:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2698.452949523926
-  },
-  {
-    "proxy": "socks5://98.175.31.195:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 534.1212749481201
-  },
-  {
-    "proxy": "socks5://68.71.249.153:48606",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 482.0387363433838
-  },
-  {
-    "proxy": "socks4://72.207.109.5:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 445.85156440734863
-  },
-  {
-    "proxy": "socks5://192.111.135.18:18301",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 640.6114101409912
-  },
-  {
-    "proxy": "socks5://192.252.214.17:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 517.0297622680664
-  },
-  {
-    "proxy": "socks4://192.111.139.162:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 339.13636207580566
-  },
-  {
-    "proxy": "socks4://184.181.217.210:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 448.073148727417
-  },
-  {
-    "proxy": "socks5://74.119.144.60:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 546.0720062255859
-  },
-  {
-    "proxy": "socks4://199.102.104.70:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 402.18186378479004
-  },
-  {
-    "proxy": "socks5://184.170.249.65:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 388.4859085083008
-  },
-  {
-    "proxy": "socks4://192.111.130.5:17002",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 436.77496910095215
-  },
-  {
-    "proxy": "socks5://38.180.207.52:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1102.410078048706
-  },
-  {
-    "proxy": "socks5://72.195.34.35:27360",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 536.2558364868164
-  },
-  {
-    "proxy": "http://144.124.227.145:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2625.1208782196045
-  },
-  {
-    "proxy": "socks5://5.255.99.75:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1746.959924697876
-  },
-  {
-    "proxy": "socks5://174.64.199.82:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 659.6291065216064
-  },
-  {
-    "proxy": "socks4://68.71.247.130:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 708.7724208831787
-  },
-  {
-    "proxy": "socks4://192.252.214.20:15864",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 329.2384147644043
-  },
-  {
-    "proxy": "socks4://157.90.234.5:443",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 1221.3306427001953
-  },
-  {
-    "proxy": "socks4://72.49.49.11:31034",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 518.8496112823486
-  },
-  {
-    "proxy": "socks5://195.19.50.79:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1922.14035987854
-  },
-  {
-    "proxy": "socks4://184.178.172.25:15291",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 645.2605724334717
-  },
-  {
-    "proxy": "http://36.103.198.235:7890",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1723.1500148773193
-  },
-  {
-    "proxy": "socks5://157.230.178.188:20327",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 653.3148288726807
-  },
-  {
-    "proxy": "socks5://104.248.197.67:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 678.6222457885742
-  },
-  {
-    "proxy": "socks4://104.37.135.145:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 362.9870414733887
-  },
-  {
-    "proxy": "socks5://54.162.143.13:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 57.079315185546875
-  },
-  {
-    "proxy": "socks5://68.71.240.210:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 554.5072555541992
-  },
-  {
-    "proxy": "socks4://98.191.0.47:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 564.9456977844238
-  },
-  {
-    "proxy": "socks4://184.170.245.148:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 542.9604053497314
-  },
-  {
-    "proxy": "socks4://174.77.111.197:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 562.3712539672852
-  },
-  {
-    "proxy": "socks4://5.42.97.252:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 908.8544845581055
-  },
-  {
-    "proxy": "socks5://142.54.229.249:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 455.34229278564453
-  },
-  {
-    "proxy": "http://8.212.177.126:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1848.0477333068848
-  },
-  {
-    "proxy": "socks4://184.178.172.3:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 759.052038192749
-  },
-  {
-    "proxy": "socks4://192.111.130.2:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 328.9330005645752
-  },
-  {
-    "proxy": "socks5://94.130.16.48:30173",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2473.0303287506104
-  },
-  {
-    "proxy": "socks5://94.130.16.48:30163",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2544.6836948394775
-  },
-  {
-    "proxy": "socks4://83.219.250.8:62920",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 492.79212951660156
-  },
-  {
-    "proxy": "http://36.141.21.200:7890",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1110.7559204101562
-  },
-  {
-    "proxy": "socks5://194.87.85.207:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1358.9191436767578
-  },
-  {
-    "proxy": "socks5://192.252.220.92:17328",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 622.4093437194824
-  },
-  {
-    "proxy": "socks5://184.181.217.213:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 530.5576324462891
-  },
-  {
-    "proxy": "socks5://51.17.154.141:3128",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 555.2608966827393
-  },
-  {
-    "proxy": "socks5://43.132.188.134:8888",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1564.7118091583252
-  },
-  {
-    "proxy": "socks4://103.56.112.120:7890",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 1649.5139598846436
-  },
-  {
-    "proxy": "socks4://72.195.101.99:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 439.00585174560547
-  },
-  {
-    "proxy": "socks4://142.54.239.1:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 558.2585334777832
-  },
-  {
-    "proxy": "socks5://83.219.250.8:62920",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 559.739351272583
-  },
-  {
-    "proxy": "socks4://198.8.94.170:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 326.7474174499512
-  },
-  {
-    "proxy": "socks5://184.181.217.194:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 533.4277153015137
-  },
-  {
-    "proxy": "socks4://24.249.199.12:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 434.708833694458
-  },
-  {
-    "proxy": "socks5://206.220.175.2:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 562.7799034118652
-  },
-  {
-    "proxy": "http://2.27.18.184:1080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1372.9748725891113
-  },
-  {
-    "proxy": "socks4://184.181.217.206:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 693.281888961792
-  },
-  {
-    "proxy": "socks5://94.158.219.111:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 652.1217823028564
-  },
-  {
-    "proxy": "socks5://192.111.137.34:18765",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 389.31798934936523
-  },
-  {
-    "proxy": "socks5://43.217.141.124:308",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 931.2512874603271
-  },
-  {
-    "proxy": "socks5://24.249.199.4:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 574.2628574371338
-  },
-  {
-    "proxy": "socks5://72.195.114.184:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1149.9433517456055
-  },
-  {
-    "proxy": "socks4://184.181.217.220:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 438.73047828674316
-  },
-  {
-    "proxy": "http://36.64.214.203:6969",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2400.4433155059814
-  },
-  {
-    "proxy": "socks4://13.53.139.178:3128",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 324.54657554626465
-  },
-  {
-    "proxy": "socks5://72.56.105.251:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2736.2890243530273
-  },
-  {
-    "proxy": "socks5://94.131.125.236:54321",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 713.4816646575928
-  },
-  {
-    "proxy": "socks4://199.102.106.94:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 364.8805618286133
-  },
-  {
-    "proxy": "socks5://185.125.201.149:7443",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 721.8725681304932
-  },
-  {
-    "proxy": "socks5://8.220.143.77:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2509.472370147705
-  },
-  {
-    "proxy": "socks5://206.123.156.215:5713",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2696.418523788452
-  },
-  {
-    "proxy": "socks5://198.8.84.3:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 564.7506713867188
-  },
-  {
-    "proxy": "socks4://184.170.249.65:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 365.7517433166504
+    "response_time": 438.1411075592041
   },
   {
     "proxy": "socks4://184.178.172.28:15294",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 798.1894016265869
+    "response_time": 628.7033557891846
   },
   {
-    "proxy": "socks5://206.123.156.178:8591",
+    "proxy": "socks5://37.18.73.60:5566",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 1494.6160316467285
+    "response_time": 2137.35032081604
   },
   {
-    "proxy": "http://150.230.249.50:1080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1280.1036834716797
-  },
-  {
-    "proxy": "socks4://184.178.172.17:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 590.4483795166016
-  },
-  {
-    "proxy": "socks5://206.123.156.199:7799",
+    "proxy": "socks5://121.169.46.116:1090",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 2967.5869941711426
-  },
-  {
-    "proxy": "socks4://98.190.239.3:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 446.0618495941162
-  },
-  {
-    "proxy": "socks5://69.61.200.104:36181",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 950.1347541809082
-  },
-  {
-    "proxy": "socks4://72.195.34.59:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 439.4392967224121
-  },
-  {
-    "proxy": "socks5://195.19.48.251:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2456.0022354125977
-  },
-  {
-    "proxy": "socks4://103.113.70.189:1082",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 64.66412544250488
-  },
-  {
-    "proxy": "socks4://184.181.178.33:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 442.2929286956787
-  },
-  {
-    "proxy": "socks4://192.252.215.5:16137",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 323.2896327972412
-  },
-  {
-    "proxy": "socks4://213.165.58.6:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 562.7553462982178
-  },
-  {
-    "proxy": "socks5://221.225.48.120:8989",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1480.6852340698242
-  },
-  {
-    "proxy": "socks4://68.71.243.14:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 378.74364852905273
-  },
-  {
-    "proxy": "socks5://184.178.172.18:15280",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 592.1273231506348
-  },
-  {
-    "proxy": "socks5://94.130.16.48:30108",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2770.334243774414
-  },
-  {
-    "proxy": "socks5://123.214.62.25:6881",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1160.8490943908691
-  },
-  {
-    "proxy": "socks4://192.111.137.35:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 382.0149898529053
-  },
-  {
-    "proxy": "socks4://72.195.34.60:27391",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 439.2695426940918
-  },
-  {
-    "proxy": "http://89.43.133.165:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2018.8941955566406
-  },
-  {
-    "proxy": "http://203.207.56.175:1452",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1743.6530590057373
-  },
-  {
-    "proxy": "socks5://174.77.111.198:49547",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 590.3174877166748
-  },
-  {
-    "proxy": "socks5://184.178.172.23:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 655.7998657226562
-  },
-  {
-    "proxy": "socks5://193.233.254.38:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 733.4370613098145
-  },
-  {
-    "proxy": "socks5://199.102.107.145:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 460.5236053466797
-  },
-  {
-    "proxy": "socks4://5.255.123.43:1080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 1713.8197422027588
-  },
-  {
-    "proxy": "http://59.46.216.131:30001",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2613.156318664551
-  },
-  {
-    "proxy": "socks5://157.230.178.188:20900",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 616.3792610168457
-  },
-  {
-    "proxy": "http://197.164.101.13:1976",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1022.709846496582
-  },
-  {
-    "proxy": "socks5://107.219.228.250:7777",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2246.847152709961
-  },
-  {
-    "proxy": "http://85.239.59.252:7890",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 520.0376510620117
-  },
-  {
-    "proxy": "socks5://103.229.124.12:7890",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1364.1197681427002
-  },
-  {
-    "proxy": "http://103.229.124.12:7890",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 942.3003196716309
-  },
-  {
-    "proxy": "socks5://142.54.239.1:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 590.6505584716797
-  },
-  {
-    "proxy": "socks4://192.111.137.34:18765",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 357.28907585144043
-  },
-  {
-    "proxy": "http://103.150.254.80:9108",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2642.822265625
-  },
-  {
-    "proxy": "socks5://72.223.188.67:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 525.2060890197754
-  },
-  {
-    "proxy": "http://160.19.19.174:8080",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 983.6359024047852
-  },
-  {
-    "proxy": "socks5://184.178.172.26:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 523.5025882720947
-  },
-  {
-    "proxy": "socks4://184.170.248.5:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 432.5850009918213
+    "response_time": 2416.6831970214844
   },
   {
     "proxy": "socks5://174.77.111.196:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 527.1813869476318
+    "response_time": 650.2957344055176
   },
   {
-    "proxy": "socks5://176.12.78.113:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1213.9015197753906
-  },
-  {
-    "proxy": "socks5://195.19.50.88:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1144.7019577026367
-  },
-  {
-    "proxy": "http://223.16.170.103:80",
+    "proxy": "http://217.76.245.80:999",
     "protocol": "http",
     "anonymity": "elite",
-    "response_time": 2925.013780593872
+    "response_time": 243.88551712036133
   },
   {
-    "proxy": "socks5://103.75.118.84:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 995.3262805938721
-  },
-  {
-    "proxy": "socks5://104.200.152.30:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 487.3385429382324
-  },
-  {
-    "proxy": "socks5://104.37.135.145:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 624.4430541992188
-  },
-  {
-    "proxy": "socks4://192.252.211.197:14921",
+    "proxy": "socks4://206.220.175.2:4145",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 400.2692699432373
+    "response_time": 465.69299697875977
   },
   {
-    "proxy": "socks4://208.102.51.6:58208",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 600.949764251709
-  },
-  {
-    "proxy": "socks5://70.166.167.55:57745",
+    "proxy": "socks5://107.152.98.5:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 2557.6624870300293
-  },
-  {
-    "proxy": "socks5://84.47.150.125:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 627.9401779174805
-  },
-  {
-    "proxy": "socks4://68.1.210.163:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 2691.9994354248047
-  },
-  {
-    "proxy": "http://148.222.238.181:999",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 377.166748046875
-  },
-  {
-    "proxy": "socks4://45.140.147.82:1082",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 673.7720966339111
-  },
-  {
-    "proxy": "http://200.174.198.32:8888",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1140.2132511138916
-  },
-  {
-    "proxy": "socks5://184.178.172.14:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 653.5427570343018
-  },
-  {
-    "proxy": "socks4://174.64.199.79:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 641.8790817260742
-  },
-  {
-    "proxy": "socks4://24.249.199.4:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 443.78018379211426
-  },
-  {
-    "proxy": "socks5://209.38.249.114:1081",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1229.3059825897217
-  },
-  {
-    "proxy": "socks4://20.127.128.70:8080",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 437.7708435058594
-  },
-  {
-    "proxy": "socks5://150.230.249.50:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1235.9087467193604
-  },
-  {
-    "proxy": "socks4://107.181.168.145:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 599.6098518371582
-  },
-  {
-    "proxy": "socks4://98.182.171.161:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 438.8468265533447
-  },
-  {
-    "proxy": "socks4://66.42.224.229:41679",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 630.6171417236328
-  },
-  {
-    "proxy": "socks5://70.166.65.160:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 685.1749420166016
-  },
-  {
-    "proxy": "socks5://93.85.87.50:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 768.7501907348633
-  },
-  {
-    "proxy": "socks5://98.182.171.161:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1196.3951587677002
-  },
-  {
-    "proxy": "socks5://170.64.170.204:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1770.5936431884766
-  },
-  {
-    "proxy": "socks4://107.152.98.5:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 372.32470512390137
-  },
-  {
-    "proxy": "socks5://112.5.33.179:999",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1451.5628814697266
-  },
-  {
-    "proxy": "socks5://45.140.147.82:1082",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 493.9737319946289
-  },
-  {
-    "proxy": "socks5://5.53.122.170:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 750.9686946868896
-  },
-  {
-    "proxy": "socks4://184.181.217.194:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 456.1755657196045
-  },
-  {
-    "proxy": "socks5://68.224.46.121:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 420.9940433502197
-  },
-  {
-    "proxy": "socks5://94.130.16.48:30107",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2645.6942558288574
-  },
-  {
-    "proxy": "socks4://192.111.129.145:16894",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 363.62528800964355
-  },
-  {
-    "proxy": "socks4://184.181.217.201:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 573.4431743621826
-  },
-  {
-    "proxy": "socks5://45.140.147.82:1081",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 514.5750045776367
-  },
-  {
-    "proxy": "socks5://64.118.142.102:5555",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1375.2031326293945
-  },
-  {
-    "proxy": "socks5://144.124.232.204:443",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 668.8179969787598
-  },
-  {
-    "proxy": "socks4://68.71.254.6:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 684.3290328979492
-  },
-  {
-    "proxy": "socks5://199.229.254.129:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 493.75033378601074
-  },
-  {
-    "proxy": "socks4://70.166.167.55:57745",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 438.34853172302246
-  },
-  {
-    "proxy": "socks4://184.170.251.30:11288",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 389.48798179626465
-  },
-  {
-    "proxy": "socks5://72.206.74.126:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 659.637451171875
-  },
-  {
-    "proxy": "socks5://192.111.135.17:18302",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 434.4961643218994
-  },
-  {
-    "proxy": "socks5://74.119.147.209:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1248.4281063079834
-  },
-  {
-    "proxy": "socks5://77.83.86.238:2053",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 565.9971237182617
-  },
-  {
-    "proxy": "socks4://184.178.172.23:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 436.171293258667
-  },
-  {
-    "proxy": "socks4://72.207.33.64:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 575.2196311950684
-  },
-  {
-    "proxy": "socks4://199.102.105.242:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 373.98648262023926
-  },
-  {
-    "proxy": "socks4://107.181.161.81:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 405.670166015625
-  },
-  {
-    "proxy": "socks5://72.223.188.92:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 531.4602851867676
-  },
-  {
-    "proxy": "socks5://72.195.34.41:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 551.2895584106445
-  },
-  {
-    "proxy": "socks5://43.205.242.234:28442",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 823.9951133728027
-  },
-  {
-    "proxy": "socks5://199.187.210.54:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 631.0265064239502
-  },
-  {
-    "proxy": "http://120.92.108.86:7890",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1489.5143508911133
-  },
-  {
-    "proxy": "http://180.191.22.153:8081",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2471.096992492676
-  },
-  {
-    "proxy": "socks5://5.42.97.252:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 966.8715000152588
-  },
-  {
-    "proxy": "socks5://72.195.34.60:27391",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 522.7348804473877
-  },
-  {
-    "proxy": "http://85.208.51.165:443",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 1499.0243911743164
+    "response_time": 680.5756092071533
   },
   {
     "proxy": "socks5://66.42.224.229:41679",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 983.1695556640625
+    "response_time": 1092.0791625976562
   },
   {
-    "proxy": "socks5://206.123.156.204:22457",
+    "proxy": "socks5://72.223.188.92:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 2424.2124557495117
+    "response_time": 769.4299221038818
   },
   {
-    "proxy": "socks4://72.206.74.126:4145",
+    "proxy": "socks5://144.31.101.200:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1387.2690200805664
+  },
+  {
+    "proxy": "socks5://144.31.27.49:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 722.7597236633301
+  },
+  {
+    "proxy": "socks4://174.77.111.197:4145",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 566.0688877105713
+    "response_time": 637.6016139984131
   },
   {
-    "proxy": "http://180.191.233.145:8080",
-    "protocol": "http",
+    "proxy": "socks4://36.103.198.235:7890",
+    "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 2859.755516052246
+    "response_time": 2082.764148712158
   },
   {
-    "proxy": "http://36.93.15.50:8080",
+    "proxy": "socks5://147.45.167.74:1081",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1092.3917293548584
+  },
+  {
+    "proxy": "http://106.51.185.233:8080",
     "protocol": "http",
     "anonymity": "elite",
-    "response_time": 2688.997268676758
+    "response_time": 1470.609188079834
+  },
+  {
+    "proxy": "http://167.103.34.108:8800",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 980.8096885681152
+  },
+  {
+    "proxy": "socks4://68.71.254.6:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 341.94087982177734
+  },
+  {
+    "proxy": "socks4://155.212.188.205:8080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1081.2788009643555
+  },
+  {
+    "proxy": "http://20.127.128.70:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 100.00419616699219
+  },
+  {
+    "proxy": "http://167.103.31.122:8800",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1026.2424945831299
+  },
+  {
+    "proxy": "socks5://199.187.210.54:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 601.7897129058838
+  },
+  {
+    "proxy": "socks4://68.71.249.153:48606",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 335.4964256286621
   },
   {
     "proxy": "socks4://72.37.217.3:4145",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 370.5313205718994
+    "response_time": 335.1132869720459
   },
   {
-    "proxy": "socks5://192.111.130.2:4145",
+    "proxy": "socks5://192.252.215.2:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 1275.5720615386963
+    "response_time": 445.91212272644043
   },
   {
-    "proxy": "socks5://142.54.235.9:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1933.2396984100342
-  },
-  {
-    "proxy": "socks5://109.135.16.145:49879",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1053.7009239196777
-  },
-  {
-    "proxy": "socks4://144.31.27.49:1080",
+    "proxy": "socks4://192.252.215.5:16137",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 494.2474365234375
+    "response_time": 431.6878318786621
   },
   {
-    "proxy": "socks4://68.71.242.118:4145",
+    "proxy": "socks4://184.178.172.18:15280",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 676.9201755523682
+    "response_time": 539.9339199066162
   },
   {
-    "proxy": "socks5://85.239.59.252:7890",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 650.4137516021729
-  },
-  {
-    "proxy": "socks5://98.188.47.150:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 700.840950012207
-  },
-  {
-    "proxy": "socks5://98.181.137.83:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1876.291036605835
-  },
-  {
-    "proxy": "socks5://98.175.31.222:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1582.853078842163
-  },
-  {
-    "proxy": "socks5://185.132.178.178:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 584.3477249145508
-  },
-  {
-    "proxy": "socks4://192.252.216.81:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 328.90772819519043
-  },
-  {
-    "proxy": "socks5://184.181.217.206:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 731.8861484527588
-  },
-  {
-    "proxy": "http://45.167.125.21:999",
+    "proxy": "http://85.239.59.19:1080",
     "protocol": "http",
     "anonymity": "elite",
-    "response_time": 514.0833854675293
+    "response_time": 2213.575839996338
   },
   {
-    "proxy": "socks4://142.54.236.97:4145",
+    "proxy": "socks4://192.111.135.18:18301",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 493.025541305542
+    "response_time": 662.6756191253662
   },
   {
-    "proxy": "socks5://160.22.200.60:69",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 1781.104564666748
-  },
-  {
-    "proxy": "socks4://184.178.172.5:15303",
+    "proxy": "socks4://98.188.47.132:4145",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 510.3154182434082
+    "response_time": 481.00996017456055
   },
   {
-    "proxy": "socks5://198.8.94.170:4145",
+    "proxy": "socks5://192.252.214.20:15864",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 579.7052383422852
+    "response_time": 438.3978843688965
   },
   {
-    "proxy": "socks5://98.178.72.30:4145",
+    "proxy": "socks5://106.13.46.252:33302",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 558.8624477386475
+    "response_time": 1402.7740955352783
   },
   {
-    "proxy": "socks4://67.201.39.14:4145",
+    "proxy": "socks5://24.249.199.4:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 799.1831302642822
+  },
+  {
+    "proxy": "socks4://3.239.171.226:38854",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 500.2856254577637
+    "response_time": 71.32101058959961
   },
   {
-    "proxy": "socks5://94.130.16.48:30058",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2761.493921279907
-  },
-  {
-    "proxy": "socks5://206.82.7.3:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 383.6085796356201
-  },
-  {
-    "proxy": "socks5://213.165.58.8:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 985.6562614440918
-  },
-  {
-    "proxy": "socks4://174.75.211.193:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 568.8333511352539
-  },
-  {
-    "proxy": "socks4://74.119.147.209:4145",
-    "protocol": "socks4",
-    "anonymity": "elite",
-    "response_time": 1300.4536628723145
-  },
-  {
-    "proxy": "socks5://154.12.176.85:8088",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2220.4818725585938
-  },
-  {
-    "proxy": "socks5://193.221.203.192:1080",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 904.515266418457
-  },
-  {
-    "proxy": "http://181.188.203.104:999",
+    "proxy": "http://185.132.178.178:1080",
     "protocol": "http",
     "anonymity": "elite",
-    "response_time": 2451.838970184326
+    "response_time": 405.3163528442383
   },
   {
-    "proxy": "socks5://184.170.248.5:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 386.80124282836914
-  },
-  {
-    "proxy": "socks4://43.205.242.234:28442",
+    "proxy": "socks4://107.152.98.5:4145",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 620.7005977630615
+    "response_time": 467.6845073699951
   },
   {
-    "proxy": "socks5://184.178.172.28:15294",
+    "proxy": "socks5://142.54.237.34:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 551.8162250518799
+    "response_time": 402.712345123291
   },
   {
-    "proxy": "socks5://192.111.139.165:4145",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 711.2951278686523
-  },
-  {
-    "proxy": "socks4://144.124.227.88:3129",
+    "proxy": "socks4://72.206.74.126:4145",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 1133.1300735473633
-  },
-  {
-    "proxy": "http://182.160.114.228:50505",
-    "protocol": "http",
-    "anonymity": "elite",
-    "response_time": 2722.6555347442627
-  },
-  {
-    "proxy": "socks5://106.13.58.110:8888",
-    "protocol": "socks5",
-    "anonymity": "elite",
-    "response_time": 2972.665786743164
+    "response_time": 712.6002311706543
   },
   {
     "proxy": "socks5://98.170.57.249:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 658.1583023071289
+    "response_time": 1016.2544250488281
   },
   {
-    "proxy": "socks5://64.227.131.240:1080",
+    "proxy": "socks5://206.123.156.200:6387",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 1393.8589096069336
+    "response_time": 670.3102588653564
+  },
+  {
+    "proxy": "socks5://69.61.200.104:36181",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1714.2674922943115
+  },
+  {
+    "proxy": "http://147.161.210.140:8800",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 630.5990219116211
+  },
+  {
+    "proxy": "http://150.230.249.50:1080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 945.239782333374
+  },
+  {
+    "proxy": "socks4://72.195.114.169:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 526.982307434082
+  },
+  {
+    "proxy": "socks5://206.123.156.195:6977",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2733.3288192749023
+  },
+  {
+    "proxy": "socks5://68.71.240.210:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 453.28235626220703
+  },
+  {
+    "proxy": "socks5://199.102.104.70:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 401.54314041137695
+  },
+  {
+    "proxy": "http://120.92.212.16:8890",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1031.2423706054688
+  },
+  {
+    "proxy": "socks5://184.178.172.23:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 745.3811168670654
+  },
+  {
+    "proxy": "socks4://184.178.172.3:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 727.494478225708
+  },
+  {
+    "proxy": "http://38.19.41.145:999",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1479.5448780059814
+  },
+  {
+    "proxy": "socks5://184.178.172.26:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 595.7674980163574
+  },
+  {
+    "proxy": "socks4://184.181.217.213:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1480.4222583770752
+  },
+  {
+    "proxy": "socks5://72.214.108.67:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 587.9650115966797
+  },
+  {
+    "proxy": "socks5://174.75.211.193:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 647.4032402038574
+  },
+  {
+    "proxy": "socks4://72.205.0.67:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 625.5662441253662
+  },
+  {
+    "proxy": "socks5://72.195.34.41:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1338.3369445800781
+  },
+  {
+    "proxy": "socks5://206.123.156.204:4099",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2919.2748069763184
+  },
+  {
+    "proxy": "socks4://192.111.134.10:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 329.9248218536377
+  },
+  {
+    "proxy": "socks4://98.181.137.83:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 490.3552532196045
+  },
+  {
+    "proxy": "socks5://72.223.188.67:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 583.3637714385986
+  },
+  {
+    "proxy": "socks4://184.182.240.211:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 609.9932193756104
+  },
+  {
+    "proxy": "socks4://174.75.211.193:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1139.481782913208
   },
   {
     "proxy": "socks5://184.185.2.12:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 2434.581518173218
+    "response_time": 1772.1099853515625
   },
   {
-    "proxy": "socks4://16.62.123.236:3128",
+    "proxy": "socks5://142.54.232.6:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1046.4587211608887
+  },
+  {
+    "proxy": "socks5://162.253.68.97:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 393.53203773498535
+  },
+  {
+    "proxy": "socks5://199.58.185.9:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 468.92380714416504
+  },
+  {
+    "proxy": "socks5://206.123.156.177:4802",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2189.5241737365723
+  },
+  {
+    "proxy": "socks5://72.195.101.99:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 736.9580268859863
+  },
+  {
+    "proxy": "socks5://213.165.58.7:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 926.6054630279541
+  },
+  {
+    "proxy": "socks5://142.54.236.97:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 396.1050510406494
+  },
+  {
+    "proxy": "socks4://199.102.105.242:4145",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 296.82350158691406
+    "response_time": 334.6095085144043
+  },
+  {
+    "proxy": "http://110.76.147.29:1080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1140.9919261932373
+  },
+  {
+    "proxy": "socks4://185.132.178.178:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 759.742021560669
+  },
+  {
+    "proxy": "socks5://104.37.135.145:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 397.8695869445801
+  },
+  {
+    "proxy": "socks5://199.116.112.6:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 561.2552165985107
+  },
+  {
+    "proxy": "socks5://185.132.178.178:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 876.1272430419922
+  },
+  {
+    "proxy": "socks4://98.188.47.150:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 625.28395652771
+  },
+  {
+    "proxy": "socks5://184.178.172.28:15294",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 588.7606143951416
+  },
+  {
+    "proxy": "socks5://199.102.107.145:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 386.40737533569336
+  },
+  {
+    "proxy": "socks5://206.123.156.178:4066",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2968.6789512634277
+  },
+  {
+    "proxy": "socks5://68.1.210.189:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 590.8641815185547
+  },
+  {
+    "proxy": "socks5://98.191.0.47:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2029.130458831787
+  },
+  {
+    "proxy": "socks5://68.71.249.158:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2497.6956844329834
+  },
+  {
+    "proxy": "socks5://154.13.149.118:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 686.565637588501
+  },
+  {
+    "proxy": "socks5://206.123.156.212:8717",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2261.5749835968018
+  },
+  {
+    "proxy": "socks4://174.64.199.82:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 559.9970817565918
+  },
+  {
+    "proxy": "socks5://192.111.134.10:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 420.5312728881836
+  },
+  {
+    "proxy": "socks5://98.188.47.132:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1395.369052886963
+  },
+  {
+    "proxy": "socks5://192.252.220.89:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 469.2041873931885
+  },
+  {
+    "proxy": "socks5://198.8.94.170:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 601.2096405029297
+  },
+  {
+    "proxy": "socks5://72.207.109.5:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 748.5795021057129
+  },
+  {
+    "proxy": "socks4://192.111.139.165:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 496.7978000640869
+  },
+  {
+    "proxy": "socks5://93.85.87.50:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 765.3472423553467
   },
   {
     "proxy": "socks5://98.190.239.3:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 573.148250579834
+    "response_time": 589.1695022583008
   },
   {
-    "proxy": "http://2.27.11.170:3128",
+    "proxy": "socks4://192.111.130.5:17002",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 370.83911895751953
+  },
+  {
+    "proxy": "socks4://202.141.161.53:10808",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 2249.94158744812
+  },
+  {
+    "proxy": "socks4://193.233.254.63:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 676.7346858978271
+  },
+  {
+    "proxy": "socks5://104.200.152.30:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 421.1845397949219
+  },
+  {
+    "proxy": "socks5://206.123.156.178:7846",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2191.4241313934326
+  },
+  {
+    "proxy": "socks5://142.54.239.1:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 557.1587085723877
+  },
+  {
+    "proxy": "socks5://43.132.188.134:8888",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1191.077709197998
+  },
+  {
+    "proxy": "socks5://74.119.144.60:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 427.68406867980957
+  },
+  {
+    "proxy": "socks4://93.85.87.50:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 793.7917709350586
+  },
+  {
+    "proxy": "socks5://51.17.154.141:3128",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1010.5171203613281
+  },
+  {
+    "proxy": "socks4://192.111.138.29:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 563.4160041809082
+  },
+  {
+    "proxy": "socks4://208.102.51.6:58208",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1253.7739276885986
+  },
+  {
+    "proxy": "socks4://192.252.216.81:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 420.7274913787842
+  },
+  {
+    "proxy": "http://176.100.216.164:8282",
     "protocol": "http",
     "anonymity": "elite",
-    "response_time": 1056.1058521270752
+    "response_time": 1719.0070152282715
+  },
+  {
+    "proxy": "socks5://94.130.16.48:30072",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2775.587320327759
+  },
+  {
+    "proxy": "http://140.238.242.189:8100",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1263.1397247314453
+  },
+  {
+    "proxy": "socks5://178.212.12.162:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1402.4834632873535
   },
   {
     "proxy": "socks4://192.252.208.67:14287",
     "protocol": "socks4",
     "anonymity": "elite",
-    "response_time": 601.111650466919
+    "response_time": 518.1269645690918
   },
   {
-    "proxy": "http://84.47.150.125:1080",
+    "proxy": "socks4://43.198.22.151:8080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 582.8747749328613
+  },
+  {
+    "proxy": "socks4://68.71.247.130:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 334.1097831726074
+  },
+  {
+    "proxy": "socks5://199.102.105.242:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 505.7070255279541
+  },
+  {
+    "proxy": "socks5://157.230.178.188:20798",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 734.8852157592773
+  },
+  {
+    "proxy": "socks5://144.124.232.204:443",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 759.0701580047607
+  },
+  {
+    "proxy": "socks5://104.248.203.234:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 599.5395183563232
+  },
+  {
+    "proxy": "socks5://72.205.0.67:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 756.3097476959229
+  },
+  {
+    "proxy": "socks5://192.111.138.29:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 517.902135848999
+  },
+  {
+    "proxy": "http://200.174.198.32:8888",
     "protocol": "http",
     "anonymity": "elite",
-    "response_time": 612.0390892028809
+    "response_time": 2816.8115615844727
+  },
+  {
+    "proxy": "socks5://67.201.59.70:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 506.1311721801758
+  },
+  {
+    "proxy": "socks4://45.140.147.82:1082",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 442.4290657043457
+  },
+  {
+    "proxy": "socks5://134.199.159.23:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1785.0651741027832
+  },
+  {
+    "proxy": "http://157.230.178.216:8088",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 369.4460391998291
+  },
+  {
+    "proxy": "socks4://142.54.235.9:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 356.47034645080566
+  },
+  {
+    "proxy": "socks5://47.253.43.155:443",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 74.34606552124023
+  },
+  {
+    "proxy": "socks4://70.166.167.55:57745",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 625.4258155822754
+  },
+  {
+    "proxy": "socks5://77.91.84.242:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1163.1762981414795
+  },
+  {
+    "proxy": "socks4://43.205.242.234:28442",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 648.2160091400146
+  },
+  {
+    "proxy": "socks5://184.181.217.213:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 605.2944660186768
+  },
+  {
+    "proxy": "http://112.209.22.22:8082",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1979.1297912597656
+  },
+  {
+    "proxy": "socks4://94.131.118.129:1081",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 458.8968753814697
+  },
+  {
+    "proxy": "socks5://72.195.114.169:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 706.1905860900879
+  },
+  {
+    "proxy": "http://120.92.212.16:7890",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1027.0075798034668
+  },
+  {
+    "proxy": "socks5://72.195.34.58:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 729.6698093414307
+  },
+  {
+    "proxy": "socks5://185.156.108.19:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 705.9721946716309
+  },
+  {
+    "proxy": "socks4://184.181.178.33:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 716.6683673858643
+  },
+  {
+    "proxy": "http://41.139.166.117:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 946.7356204986572
+  },
+  {
+    "proxy": "http://45.70.236.194:999",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2625.1566410064697
+  },
+  {
+    "proxy": "socks5://150.241.100.120:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 846.8866348266602
+  },
+  {
+    "proxy": "socks5://213.176.64.22:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 645.2662944793701
+  },
+  {
+    "proxy": "socks4://142.54.232.6:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 428.3909797668457
+  },
+  {
+    "proxy": "http://144.31.27.49:1080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2495.387554168701
+  },
+  {
+    "proxy": "socks4://72.195.34.60:27391",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 487.70666122436523
+  },
+  {
+    "proxy": "socks4://174.77.111.196:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 492.58971214294434
+  },
+  {
+    "proxy": "socks5://40.177.211.224:40199",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 219.3293571472168
+  },
+  {
+    "proxy": "socks4://74.50.65.152:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 2814.481019973755
+  },
+  {
+    "proxy": "socks5://155.212.188.205:8080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1113.8384342193604
+  },
+  {
+    "proxy": "socks5://98.182.147.97:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 629.0321350097656
+  },
+  {
+    "proxy": "http://103.82.246.25:6080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 972.6269245147705
+  },
+  {
+    "proxy": "socks5://141.105.69.29:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 795.1369285583496
+  },
+  {
+    "proxy": "socks5://223.27.82.91:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1624.2649555206299
+  },
+  {
+    "proxy": "socks5://174.75.211.222:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 583.4002494812012
+  },
+  {
+    "proxy": "socks5://147.45.214.210:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1852.3402214050293
+  },
+  {
+    "proxy": "socks5://142.54.228.193:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 416.0656929016113
+  },
+  {
+    "proxy": "socks5://208.102.51.6:58208",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 942.0413970947266
+  },
+  {
+    "proxy": "socks4://193.233.254.57:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 516.9758796691895
+  },
+  {
+    "proxy": "socks5://68.224.46.121:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 943.3555603027344
+  },
+  {
+    "proxy": "socks5://192.111.139.165:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 640.9718990325928
+  },
+  {
+    "proxy": "http://94.131.118.129:1081",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 434.2067241668701
+  },
+  {
+    "proxy": "socks5://212.58.132.5:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1805.403470993042
+  },
+  {
+    "proxy": "socks5://13.53.139.178:3128",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 499.79567527770996
+  },
+  {
+    "proxy": "socks5://206.123.156.190:5488",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2897.529363632202
+  },
+  {
+    "proxy": "socks4://142.54.237.34:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 349.93696212768555
+  },
+  {
+    "proxy": "socks4://216.68.128.121:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 657.1595668792725
+  },
+  {
+    "proxy": "socks4://198.8.94.170:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 344.4380760192871
+  },
+  {
+    "proxy": "socks5://68.71.243.14:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 474.4861125946045
+  },
+  {
+    "proxy": "socks5://34.236.148.220:25283",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 91.8264389038086
+  },
+  {
+    "proxy": "socks5://124.248.191.83:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1789.0284061431885
+  },
+  {
+    "proxy": "socks4://192.111.139.162:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 345.5789089202881
+  },
+  {
+    "proxy": "socks5://67.201.58.190:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 516.0245895385742
+  },
+  {
+    "proxy": "socks5://84.47.150.125:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 661.7698669433594
+  },
+  {
+    "proxy": "socks5://3.239.171.226:38854",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 73.8990306854248
+  },
+  {
+    "proxy": "socks5://67.210.146.50:11080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1282.0751667022705
+  },
+  {
+    "proxy": "socks4://107.181.168.145:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 337.3119831085205
+  },
+  {
+    "proxy": "socks5://50.63.12.101:45801",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 322.22461700439453
+  },
+  {
+    "proxy": "http://8.212.177.126:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1875.2830028533936
+  },
+  {
+    "proxy": "socks5://203.25.208.163:1100",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1406.1930179595947
+  },
+  {
+    "proxy": "socks5://5.255.113.177:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1790.5187606811523
+  },
+  {
+    "proxy": "socks5://192.111.137.34:18765",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1101.3176441192627
+  },
+  {
+    "proxy": "socks5://206.123.156.199:5126",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2042.0851707458496
+  },
+  {
+    "proxy": "socks5://68.71.245.206:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 769.4282531738281
+  },
+  {
+    "proxy": "socks4://184.181.217.206:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 628.4353733062744
+  },
+  {
+    "proxy": "socks5://72.205.0.93:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 596.0509777069092
+  },
+  {
+    "proxy": "socks5://184.178.172.25:15291",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 594.5935249328613
+  },
+  {
+    "proxy": "socks5://213.165.58.5:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 844.1050052642822
+  },
+  {
+    "proxy": "socks4://192.111.139.163:19404",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 405.1501750946045
+  },
+  {
+    "proxy": "socks4://20.127.128.70:8080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 199.81002807617188
+  },
+  {
+    "proxy": "socks4://98.182.147.97:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 631.2699317932129
+  },
+  {
+    "proxy": "socks4://104.37.135.145:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 323.32444190979004
+  },
+  {
+    "proxy": "socks5://98.175.31.195:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 590.8281803131104
+  },
+  {
+    "proxy": "socks5://38.76.150.136:5555",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 276.43632888793945
+  },
+  {
+    "proxy": "socks4://72.207.33.64:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 488.2636070251465
+  },
+  {
+    "proxy": "socks4://184.181.217.194:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 814.5203590393066
+  },
+  {
+    "proxy": "socks4://142.54.239.1:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 336.46631240844727
+  },
+  {
+    "proxy": "http://62.193.118.51:1981",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2920.5970764160156
+  },
+  {
+    "proxy": "socks5://213.165.58.8:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 721.5838432312012
+  },
+  {
+    "proxy": "socks5://104.248.197.67:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 613.3484840393066
+  },
+  {
+    "proxy": "socks4://67.201.59.70:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 336.9104862213135
+  },
+  {
+    "proxy": "socks5://192.252.209.155:14455",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 687.0243549346924
+  },
+  {
+    "proxy": "socks5://212.193.3.103:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 635.6842517852783
+  },
+  {
+    "proxy": "socks5://93.177.116.84:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 663.4290218353271
+  },
+  {
+    "proxy": "socks4://98.182.171.161:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1181.6656589508057
+  },
+  {
+    "proxy": "socks5://203.25.208.163:1111",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1406.285285949707
+  },
+  {
+    "proxy": "socks5://132.145.77.107:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 561.5179538726807
+  },
+  {
+    "proxy": "socks4://16.62.123.236:3128",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 342.94939041137695
+  },
+  {
+    "proxy": "socks5://193.233.254.82:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 782.0672988891602
+  },
+  {
+    "proxy": "socks4://184.170.248.5:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 345.71027755737305
+  },
+  {
+    "proxy": "socks5://184.178.172.17:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 780.7087898254395
+  },
+  {
+    "proxy": "socks4://51.17.154.141:3128",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 466.8276309967041
+  },
+  {
+    "proxy": "socks5://98.175.31.222:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 727.360725402832
+  },
+  {
+    "proxy": "socks5://184.170.248.5:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 451.7221450805664
+  },
+  {
+    "proxy": "socks4://142.54.226.214:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 411.26370429992676
+  },
+  {
+    "proxy": "socks5://192.252.209.158:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 538.2943153381348
+  },
+  {
+    "proxy": "http://85.239.59.252:7890",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 560.0061416625977
+  },
+  {
+    "proxy": "socks5://68.1.210.163:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 587.9311561584473
+  },
+  {
+    "proxy": "http://202.141.161.53:10808",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1906.843900680542
+  },
+  {
+    "proxy": "socks4://193.233.254.82:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 837.7232551574707
+  },
+  {
+    "proxy": "socks5://74.119.147.209:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 422.46341705322266
+  },
+  {
+    "proxy": "socks5://206.123.156.178:4055",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1204.0009498596191
+  },
+  {
+    "proxy": "http://212.108.115.79:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1750.7085800170898
+  },
+  {
+    "proxy": "socks5://142.54.237.38:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 488.97743225097656
+  },
+  {
+    "proxy": "socks5://174.77.111.197:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 717.4093723297119
+  },
+  {
+    "proxy": "socks5://184.178.172.13:15311",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 725.7463932037354
+  },
+  {
+    "proxy": "socks5://192.111.139.162:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 479.79187965393066
+  },
+  {
+    "proxy": "socks4://98.190.239.3:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 482.52391815185547
+  },
+  {
+    "proxy": "socks4://199.102.106.94:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 342.41628646850586
+  },
+  {
+    "proxy": "socks5://206.123.156.231:4608",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2873.5251426696777
+  },
+  {
+    "proxy": "socks5://70.166.167.55:57745",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 623.6684322357178
+  },
+  {
+    "proxy": "socks4://147.45.214.210:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1703.2334804534912
+  },
+  {
+    "proxy": "http://202.154.18.72:8084",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1869.4307804107666
+  },
+  {
+    "proxy": "socks5://98.182.171.161:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 584.8293304443359
+  },
+  {
+    "proxy": "socks5://168.245.197.146:80",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1677.7126789093018
+  },
+  {
+    "proxy": "socks5://3.137.167.45:17328",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 51.19204521179199
+  },
+  {
+    "proxy": "http://159.223.225.118:8888",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 500.4770755767822
+  },
+  {
+    "proxy": "socks5://206.123.156.210:4343",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1912.2424125671387
+  },
+  {
+    "proxy": "socks5://176.12.78.113:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1675.7128238677979
+  },
+  {
+    "proxy": "socks4://104.200.135.46:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 696.941614151001
+  },
+  {
+    "proxy": "socks5://8.218.22.178:1011",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1578.1564712524414
+  },
+  {
+    "proxy": "socks5://154.90.60.60:20002",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2113.48295211792
+  },
+  {
+    "proxy": "socks4://199.116.114.11:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 383.75091552734375
+  },
+  {
+    "proxy": "socks4://162.253.68.97:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 579.1788101196289
+  },
+  {
+    "proxy": "socks5://184.181.178.33:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 713.0959033966064
+  },
+  {
+    "proxy": "socks5://70.166.167.38:57728",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 599.1227626800537
+  },
+  {
+    "proxy": "socks5://24.249.199.12:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 591.3009643554688
+  },
+  {
+    "proxy": "socks4://192.252.216.86:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 431.751012802124
+  },
+  {
+    "proxy": "socks5://45.140.147.82:1082",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1338.8361930847168
+  },
+  {
+    "proxy": "socks5://170.64.170.204:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1481.799840927124
+  },
+  {
+    "proxy": "socks5://2.26.61.145:8080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 673.1696128845215
+  },
+  {
+    "proxy": "socks4://171.248.212.245:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1215.67964553833
+  },
+  {
+    "proxy": "socks5://68.71.247.130:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 746.7126846313477
+  },
+  {
+    "proxy": "socks5://123.214.62.25:6881",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1240.1840686798096
+  },
+  {
+    "proxy": "socks4://184.181.217.201:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 671.3271141052246
+  },
+  {
+    "proxy": "socks5://185.114.73.2:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 700.329065322876
+  },
+  {
+    "proxy": "http://2.27.40.180:1080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2611.6185188293457
+  },
+  {
+    "proxy": "socks4://192.111.137.35:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 588.6738300323486
+  },
+  {
+    "proxy": "socks5://206.123.156.227:8688",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 957.5469493865967
+  },
+  {
+    "proxy": "http://45.126.250.46:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2390.779972076416
+  },
+  {
+    "proxy": "socks5://195.19.50.44:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2632.8213214874268
+  },
+  {
+    "proxy": "socks4://174.64.199.79:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 655.081033706665
+  },
+  {
+    "proxy": "socks5://206.123.156.209:14789",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2951.2624740600586
+  },
+  {
+    "proxy": "socks4://184.170.249.65:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 723.1638431549072
+  },
+  {
+    "proxy": "socks5://149.62.186.244:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 808.0108165740967
+  },
+  {
+    "proxy": "http://103.113.70.189:1081",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 75.3641128540039
+  },
+  {
+    "proxy": "socks5://206.123.156.187:8445",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2719.8128700256348
+  },
+  {
+    "proxy": "socks5://193.233.254.61:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 786.1218452453613
+  },
+  {
+    "proxy": "socks5://70.166.65.160:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 737.3771667480469
+  },
+  {
+    "proxy": "socks5://199.116.114.11:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 492.7217960357666
+  },
+  {
+    "proxy": "socks5://166.62.53.45:45842",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 310.3024959564209
+  },
+  {
+    "proxy": "http://89.43.133.200:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2598.443031311035
+  },
+  {
+    "proxy": "socks5://68.71.254.6:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 393.05806159973145
+  },
+  {
+    "proxy": "socks5://142.54.235.9:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 422.6348400115967
+  },
+  {
+    "proxy": "socks4://198.8.94.174:39078",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 393.94330978393555
+  },
+  {
+    "proxy": "http://167.103.115.102:8800",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 880.7511329650879
+  },
+  {
+    "proxy": "socks5://67.201.35.145:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 412.74571418762207
+  },
+  {
+    "proxy": "socks5://213.165.58.6:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1258.3041191101074
+  },
+  {
+    "proxy": "socks4://192.111.129.150:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 392.5511837005615
+  },
+  {
+    "proxy": "socks5://112.5.33.179:999",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1328.6316394805908
+  },
+  {
+    "proxy": "socks5://144.124.227.88:3129",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1438.7321472167969
+  },
+  {
+    "proxy": "socks5://157.230.178.188:20405",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 435.8811378479004
+  },
+  {
+    "proxy": "http://152.32.132.190:7890",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 849.3340015411377
+  },
+  {
+    "proxy": "socks5://206.123.156.226:8089",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 690.4709339141846
+  },
+  {
+    "proxy": "socks4://70.166.167.38:57728",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 489.4070625305176
+  },
+  {
+    "proxy": "socks5://72.37.216.68:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 901.2141227722168
+  },
+  {
+    "proxy": "http://185.138.120.109:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1782.611608505249
+  },
+  {
+    "proxy": "socks4://142.54.228.193:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 373.0039596557617
+  },
+  {
+    "proxy": "socks5://103.239.200.226:11",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1335.9096050262451
+  },
+  {
+    "proxy": "socks4://98.170.57.231:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 833.8849544525146
+  },
+  {
+    "proxy": "http://212.58.132.5:8888",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1455.3816318511963
+  },
+  {
+    "proxy": "http://211.38.188.120:9080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1098.8576412200928
+  },
+  {
+    "proxy": "socks5://192.111.129.150:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 422.52373695373535
+  },
+  {
+    "proxy": "socks4://24.249.199.12:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 651.4909267425537
+  },
+  {
+    "proxy": "socks4://185.114.73.2:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 537.3702049255371
+  },
+  {
+    "proxy": "socks5://184.181.217.194:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 953.761100769043
+  },
+  {
+    "proxy": "socks5://206.123.156.184:9373",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2434.6091747283936
+  },
+  {
+    "proxy": "socks4://34.124.190.108:8080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1864.189624786377
+  },
+  {
+    "proxy": "http://36.103.198.235:7890",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2232.905864715576
+  },
+  {
+    "proxy": "socks4://66.42.224.229:41679",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1058.2802295684814
+  },
+  {
+    "proxy": "socks5://59.46.216.131:30001",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2515.601396560669
+  },
+  {
+    "proxy": "socks5://184.181.217.220:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 656.9626331329346
+  },
+  {
+    "proxy": "http://42.101.8.101:8888",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1458.1549167633057
+  },
+  {
+    "proxy": "socks4://184.178.172.13:15311",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 517.3070430755615
+  },
+  {
+    "proxy": "socks4://72.49.49.11:31034",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1716.1979675292969
   },
   {
     "proxy": "socks5://98.170.57.241:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 523.7641334533691
+    "response_time": 717.0300483703613
+  },
+  {
+    "proxy": "socks5://206.123.156.202:8847",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2235.4111671447754
+  },
+  {
+    "proxy": "socks4://98.181.137.80:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 481.5943241119385
+  },
+  {
+    "proxy": "http://45.140.147.82:1081",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1436.0380172729492
+  },
+  {
+    "proxy": "socks5://72.206.74.126:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 587.0201587677002
+  },
+  {
+    "proxy": "socks4://213.165.58.5:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 907.4785709381104
+  },
+  {
+    "proxy": "socks5://72.195.34.60:27391",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 596.5917110443115
+  },
+  {
+    "proxy": "socks4://192.252.215.2:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 476.6571521759033
+  },
+  {
+    "proxy": "socks5://209.38.249.114:1082",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1148.2906341552734
+  },
+  {
+    "proxy": "socks5://5.255.103.55:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 656.4381122589111
+  },
+  {
+    "proxy": "socks5://185.125.201.149:7443",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 968.4076309204102
+  },
+  {
+    "proxy": "socks4://184.170.251.30:11288",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 516.2968635559082
+  },
+  {
+    "proxy": "socks4://84.47.150.125:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 535.9179973602295
+  },
+  {
+    "proxy": "socks4://192.111.137.34:18765",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 449.15080070495605
+  },
+  {
+    "proxy": "socks5://167.71.226.135:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1339.0254974365234
+  },
+  {
+    "proxy": "socks4://213.165.58.7:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 976.7289161682129
+  },
+  {
+    "proxy": "socks5://172.81.111.156:10001",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1052.0260334014893
+  },
+  {
+    "proxy": "socks4://184.170.245.148:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 352.3297309875488
+  },
+  {
+    "proxy": "socks5://174.64.199.79:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 729.9337387084961
+  },
+  {
+    "proxy": "socks4://74.119.147.209:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 350.88062286376953
+  },
+  {
+    "proxy": "socks5://192.111.135.17:18302",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1607.9232692718506
+  },
+  {
+    "proxy": "http://115.190.91.223:7897",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2429.617404937744
+  },
+  {
+    "proxy": "socks4://213.165.58.6:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1851.1834144592285
+  },
+  {
+    "proxy": "socks4://68.1.210.163:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 631.3796043395996
+  },
+  {
+    "proxy": "socks5://199.102.106.94:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 399.4021415710449
+  },
+  {
+    "proxy": "socks5://192.252.216.81:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 638.0274295806885
+  },
+  {
+    "proxy": "socks5://5.129.225.39:993",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 577.0981311798096
+  },
+  {
+    "proxy": "socks5://64.118.142.102:5555",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1289.3269062042236
+  },
+  {
+    "proxy": "socks4://184.181.217.210:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 637.8214359283447
+  },
+  {
+    "proxy": "socks5://84.47.150.126:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 816.8187141418457
+  },
+  {
+    "proxy": "socks5://109.71.241.67:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 595.1387882232666
+  },
+  {
+    "proxy": "socks5://206.123.156.210:9410",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2565.678596496582
+  },
+  {
+    "proxy": "socks4://199.229.254.129:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 353.03401947021484
+  },
+  {
+    "proxy": "socks5://174.77.111.198:49547",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 899.1713523864746
+  },
+  {
+    "proxy": "socks5://142.54.229.249:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 406.44335746765137
+  },
+  {
+    "proxy": "socks5://216.68.128.121:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 873.5380172729492
+  },
+  {
+    "proxy": "socks4://184.178.172.25:15291",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 625.8950233459473
+  },
+  {
+    "proxy": "socks4://178.212.12.162:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1294.7101593017578
+  },
+  {
+    "proxy": "socks5://206.123.156.200:4927",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2457.850933074951
   },
   {
     "proxy": "socks5://184.170.251.30:11288",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 498.55613708496094
+    "response_time": 482.0208549499512
   },
   {
-    "proxy": "socks5://94.130.16.48:30594",
+    "proxy": "socks5://192.252.208.70:14282",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 2935.0178241729736
+    "response_time": 425.70018768310547
   },
   {
-    "proxy": "http://116.171.106.15:3443",
-    "protocol": "http",
+    "proxy": "socks5://157.230.178.188:20327",
+    "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 2427.431344985962
+    "response_time": 901.4673233032227
   },
   {
-    "proxy": "http://213.131.85.28:1976",
+    "proxy": "socks5://38.180.207.52:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1143.9409255981445
+  },
+  {
+    "proxy": "socks5://103.76.149.140:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2424.8011112213135
+  },
+  {
+    "proxy": "socks4://184.178.172.26:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 481.8460941314697
+  },
+  {
+    "proxy": "socks5://103.113.70.189:1081",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 104.6907901763916
+  },
+  {
+    "proxy": "http://113.160.132.26:8080",
     "protocol": "http",
     "anonymity": "elite",
-    "response_time": 2981.020927429199
+    "response_time": 1201.2982368469238
+  },
+  {
+    "proxy": "socks5://206.123.156.200:4980",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2382.141590118408
+  },
+  {
+    "proxy": "socks4://72.195.101.99:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 635.1609230041504
+  },
+  {
+    "proxy": "socks5://98.178.72.21:10919",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 731.6219806671143
+  },
+  {
+    "proxy": "socks4://67.201.39.14:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 383.8081359863281
+  },
+  {
+    "proxy": "http://149.51.42.10:3128",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 273.38528633117676
+  },
+  {
+    "proxy": "socks5://206.123.156.197:7759",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2367.6185607910156
+  },
+  {
+    "proxy": "socks4://185.230.190.195:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 2384.3841552734375
+  },
+  {
+    "proxy": "socks5://184.181.217.201:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 590.4073715209961
+  },
+  {
+    "proxy": "socks5://206.220.175.2:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 595.991849899292
+  },
+  {
+    "proxy": "http://190.14.249.111:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1940.1109218597412
+  },
+  {
+    "proxy": "socks5://157.230.178.188:20656",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 585.2482318878174
+  },
+  {
+    "proxy": "socks5://168.253.92.93:10808",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2512.791872024536
+  },
+  {
+    "proxy": "http://147.161.239.240:8800",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 411.0257625579834
+  },
+  {
+    "proxy": "socks5://98.178.72.30:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 736.1648082733154
+  },
+  {
+    "proxy": "socks4://144.31.27.49:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 2514.636278152466
+  },
+  {
+    "proxy": "socks4://192.252.211.197:14921",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 454.9558162689209
+  },
+  {
+    "proxy": "socks5://144.124.227.145:8080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1648.7345695495605
+  },
+  {
+    "proxy": "socks5://192.252.211.197:14921",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 481.51278495788574
+  },
+  {
+    "proxy": "http://150.107.140.238:3128",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1003.9091110229492
+  },
+  {
+    "proxy": "socks5://163.192.22.108:7904",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 754.0760040283203
+  },
+  {
+    "proxy": "socks5://18.100.127.30:5793",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 485.74304580688477
+  },
+  {
+    "proxy": "socks5://77.91.77.220:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2496.5081214904785
+  },
+  {
+    "proxy": "socks5://202.141.161.53:10808",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2720.9999561309814
+  },
+  {
+    "proxy": "socks5://184.178.172.11:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 701.6816139221191
+  },
+  {
+    "proxy": "socks5://206.123.156.222:6909",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 681.124210357666
+  },
+  {
+    "proxy": "socks5://206.123.156.228:8741",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1450.0761032104492
+  },
+  {
+    "proxy": "socks5://43.208.16.199:8174",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 947.376012802124
+  },
+  {
+    "proxy": "socks5://192.111.139.163:19404",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 563.4706020355225
+  },
+  {
+    "proxy": "socks4://98.175.31.195:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 669.3820953369141
+  },
+  {
+    "proxy": "socks4://72.37.216.68:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 689.5401477813721
+  },
+  {
+    "proxy": "socks4://142.54.231.38:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 413.86961936950684
+  },
+  {
+    "proxy": "socks5://192.252.214.17:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 429.9948215484619
+  },
+  {
+    "proxy": "socks4://192.111.135.17:18302",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 343.2652950286865
+  },
+  {
+    "proxy": "socks5://192.111.135.18:18301",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1315.3111934661865
+  },
+  {
+    "proxy": "socks5://184.178.172.3:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 666.1891937255859
+  },
+  {
+    "proxy": "socks5://5.255.99.75:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1714.721918106079
+  },
+  {
+    "proxy": "socks5://206.123.156.210:22429",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1793.8125133514404
+  },
+  {
+    "proxy": "http://103.167.170.83:8097",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2002.4454593658447
+  },
+  {
+    "proxy": "socks4://98.191.0.47:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 629.3416023254395
+  },
+  {
+    "proxy": "socks5://13.60.218.140:23805",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 497.8005886077881
+  },
+  {
+    "proxy": "socks5://192.111.130.5:17002",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 570.3341960906982
+  },
+  {
+    "proxy": "socks5://184.181.217.210:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 592.4627780914307
+  },
+  {
+    "proxy": "socks4://185.231.204.221:6115",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1774.1525173187256
+  },
+  {
+    "proxy": "socks5://5.42.97.252:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2536.670446395874
+  },
+  {
+    "proxy": "socks4://192.252.214.20:15864",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 363.1412982940674
+  },
+  {
+    "proxy": "http://84.47.150.126:1080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 643.1009769439697
+  },
+  {
+    "proxy": "socks5://107.181.168.145:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 435.81533432006836
+  },
+  {
+    "proxy": "socks5://206.123.156.226:4117",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1276.7083644866943
+  },
+  {
+    "proxy": "http://5.102.109.41:999",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2107.232093811035
+  },
+  {
+    "proxy": "socks4://192.111.137.37:18762",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 371.17648124694824
+  },
+  {
+    "proxy": "socks4://74.119.144.60:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 351.4368534088135
+  },
+  {
+    "proxy": "socks5://184.170.249.65:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 965.2142524719238
+  },
+  {
+    "proxy": "socks5://206.123.156.177:4444",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2607.5220108032227
+  },
+  {
+    "proxy": "socks4://199.58.184.97:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 563.4505748748779
+  },
+  {
+    "proxy": "socks5://206.123.156.238:4629",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 955.0385475158691
+  },
+  {
+    "proxy": "socks5://85.208.51.165:443",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1923.255443572998
+  },
+  {
+    "proxy": "socks5://193.221.203.192:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2762.836694717407
+  },
+  {
+    "proxy": "socks5://98.191.0.37:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 599.0505218505859
+  },
+  {
+    "proxy": "socks5://206.123.156.223:4073",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1233.271598815918
+  },
+  {
+    "proxy": "socks5://5.53.122.170:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 896.543025970459
+  },
+  {
+    "proxy": "socks4://67.201.35.145:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 358.6890697479248
+  },
+  {
+    "proxy": "socks5://192.111.129.145:16894",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 415.81201553344727
+  },
+  {
+    "proxy": "socks5://68.71.252.38:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 553.6303520202637
+  },
+  {
+    "proxy": "http://188.132.222.169:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1811.9232654571533
+  },
+  {
+    "proxy": "socks4://199.102.104.70:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 339.8096561431885
+  },
+  {
+    "proxy": "socks5://186.219.98.195:6881",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1039.6051406860352
+  },
+  {
+    "proxy": "socks5://206.123.156.215:5302",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2458.1010341644287
+  },
+  {
+    "proxy": "socks4://72.195.34.59:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 589.5709991455078
+  },
+  {
+    "proxy": "socks5://104.200.135.46:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 516.2539482116699
+  },
+  {
+    "proxy": "socks5://145.239.20.85:8889",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 707.4782848358154
+  },
+  {
+    "proxy": "socks4://13.53.139.178:3128",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 378.62420082092285
+  },
+  {
+    "proxy": "socks5://94.131.125.236:54321",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 833.9865207672119
+  },
+  {
+    "proxy": "socks5://67.201.33.10:25283",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 504.8806667327881
+  },
+  {
+    "proxy": "socks4://104.200.152.30:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 331.1474323272705
+  },
+  {
+    "proxy": "socks5://174.64.199.82:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 753.293514251709
+  },
+  {
+    "proxy": "socks4://24.249.199.4:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 847.2843170166016
+  },
+  {
+    "proxy": "socks5://45.94.47.227:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 758.1229209899902
+  },
+  {
+    "proxy": "socks4://142.54.229.249:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 405.25031089782715
+  },
+  {
+    "proxy": "http://93.77.181.116:8888",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2015.3634548187256
+  },
+  {
+    "proxy": "socks5://185.209.29.226:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 965.1541709899902
+  },
+  {
+    "proxy": "socks5://193.122.105.251:65535",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1125.0665187835693
+  },
+  {
+    "proxy": "socks4://192.252.209.158:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 420.5024242401123
+  },
+  {
+    "proxy": "socks4://198.8.84.3:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 337.2366428375244
+  },
+  {
+    "proxy": "socks4://72.195.34.58:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 515.3238773345947
+  },
+  {
+    "proxy": "socks5://72.37.217.3:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 410.83621978759766
+  },
+  {
+    "proxy": "socks4://84.47.150.126:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 647.9592323303223
+  },
+  {
+    "proxy": "socks5://184.170.245.148:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 620.9485530853271
+  },
+  {
+    "proxy": "socks4://85.239.59.252:7890",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 529.7670364379883
+  },
+  {
+    "proxy": "socks4://72.56.105.251:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 507.8244209289551
+  },
+  {
+    "proxy": "socks5://72.195.34.59:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 587.6374244689941
+  },
+  {
+    "proxy": "socks5://157.230.178.188:20900",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 867.3369884490967
+  },
+  {
+    "proxy": "socks5://206.123.156.188:7639",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2835.456371307373
+  },
+  {
+    "proxy": "socks5://206.82.7.3:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 340.99864959716797
+  },
+  {
+    "proxy": "socks4://184.181.217.220:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 630.59401512146
+  },
+  {
+    "proxy": "socks5://192.252.215.5:16137",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 580.4347991943359
+  },
+  {
+    "proxy": "socks5://187.63.9.62:63253",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1874.2995262145996
+  },
+  {
+    "proxy": "socks4://199.116.112.6:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 369.675874710083
+  },
+  {
+    "proxy": "socks5://192.252.216.86:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 556.5633773803711
+  },
+  {
+    "proxy": "socks4://174.77.111.198:49547",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 635.3566646575928
+  },
+  {
+    "proxy": "socks5://199.229.254.129:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 413.9068126678467
+  },
+  {
+    "proxy": "socks4://192.111.130.2:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 386.70849800109863
+  },
+  {
+    "proxy": "socks5://192.111.130.2:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 421.0472106933594
+  },
+  {
+    "proxy": "socks4://184.178.172.11:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 630.9425830841064
+  },
+  {
+    "proxy": "socks5://203.25.208.163:1145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1405.1098823547363
+  },
+  {
+    "proxy": "socks4://142.54.236.97:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 379.8840045928955
+  },
+  {
+    "proxy": "socks5://16.62.123.236:3128",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 466.2206172943115
+  },
+  {
+    "proxy": "socks5://184.181.217.206:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 735.2449893951416
+  },
+  {
+    "proxy": "socks4://68.1.210.189:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 631.7713260650635
+  },
+  {
+    "proxy": "socks4://199.58.185.9:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 709.193229675293
+  },
+  {
+    "proxy": "socks5://110.235.248.142:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1598.8521575927734
+  },
+  {
+    "proxy": "socks5://192.252.208.67:14287",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 531.5237045288086
+  },
+  {
+    "proxy": "socks5://198.8.84.3:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 390.4569149017334
+  },
+  {
+    "proxy": "socks5://206.123.156.214:5392",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1187.8697872161865
+  },
+  {
+    "proxy": "http://1.231.81.166:3128",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 906.1577320098877
+  },
+  {
+    "proxy": "socks5://103.75.118.84:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 935.3711605072021
+  },
+  {
+    "proxy": "socks5://194.87.85.207:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2066.1306381225586
+  },
+  {
+    "proxy": "socks4://98.178.72.21:10919",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 625.6504058837891
+  },
+  {
+    "proxy": "socks5://72.195.114.184:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 762.5784873962402
+  },
+  {
+    "proxy": "socks5://209.38.249.114:1081",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 782.045841217041
+  },
+  {
+    "proxy": "http://2.27.18.184:1080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 451.3511657714844
+  },
+  {
+    "proxy": "socks5://184.178.172.18:15280",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 756.2868595123291
+  },
+  {
+    "proxy": "socks4://72.207.109.5:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 481.11701011657715
+  },
+  {
+    "proxy": "socks5://20.127.128.70:8080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 816.2672519683838
+  },
+  {
+    "proxy": "http://217.28.220.104:1080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 755.486249923706
+  },
+  {
+    "proxy": "socks4://13.60.163.108:3128",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 374.53556060791016
+  },
+  {
+    "proxy": "socks5://142.54.231.38:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 392.48037338256836
+  },
+  {
+    "proxy": "socks4://199.102.107.145:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 732.2213649749756
+  },
+  {
+    "proxy": "socks5://47.252.8.106:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 587.1312618255615
+  },
+  {
+    "proxy": "socks4://98.170.57.249:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 960.310697555542
+  },
+  {
+    "proxy": "socks5://190.218.146.195:6881",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 894.8750495910645
+  },
+  {
+    "proxy": "http://120.92.108.86:7890",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2228.6500930786133
+  },
+  {
+    "proxy": "http://103.106.216.133:8097",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1703.7253379821777
+  },
+  {
+    "proxy": "socks5://157.230.178.188:20387",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1244.602918624878
+  },
+  {
+    "proxy": "socks4://184.178.172.5:15303",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 959.2134952545166
+  },
+  {
+    "proxy": "socks5://198.8.94.174:39078",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 567.5909519195557
+  },
+  {
+    "proxy": "socks5://68.71.242.118:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 880.422830581665
+  },
+  {
+    "proxy": "socks4://69.61.200.104:36181",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 521.4536190032959
+  },
+  {
+    "proxy": "socks5://72.195.34.35:27360",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 732.7961921691895
+  },
+  {
+    "proxy": "socks5://13.60.163.108:3128",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 490.19694328308105
+  },
+  {
+    "proxy": "socks4://72.195.34.35:27360",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 655.3199291229248
+  },
+  {
+    "proxy": "socks5://103.30.29.49:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2653.939723968506
+  },
+  {
+    "proxy": "http://102.221.238.238:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 770.2054977416992
+  },
+  {
+    "proxy": "socks4://184.178.172.23:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 666.0397052764893
   },
   {
     "proxy": "socks5://184.182.240.12:4145",
     "protocol": "socks5",
     "anonymity": "elite",
-    "response_time": 600.7249355316162
+    "response_time": 614.5298480987549
+  },
+  {
+    "proxy": "socks5://184.178.172.5:15303",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 880.8732032775879
+  },
+  {
+    "proxy": "socks5://98.170.57.231:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1054.5563697814941
+  },
+  {
+    "proxy": "socks5://68.71.249.153:48606",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 507.3230266571045
+  },
+  {
+    "proxy": "socks4://67.201.33.10:25283",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 407.0746898651123
+  },
+  {
+    "proxy": "socks5://64.227.131.240:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1618.375301361084
+  },
+  {
+    "proxy": "socks5://119.148.47.166:22122",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2891.418695449829
+  },
+  {
+    "proxy": "socks5://98.181.137.83:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 589.3363952636719
+  },
+  {
+    "proxy": "http://84.47.150.125:1080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 523.6337184906006
+  },
+  {
+    "proxy": "socks4://184.178.172.17:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 486.2236976623535
+  },
+  {
+    "proxy": "socks5://142.54.226.214:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 432.2009086608887
+  },
+  {
+    "proxy": "socks4://184.182.240.12:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1848.0052947998047
+  },
+  {
+    "proxy": "socks4://107.181.161.81:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 480.6652069091797
+  },
+  {
+    "proxy": "socks5://67.201.39.14:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1129.678726196289
+  },
+  {
+    "proxy": "socks5://110.235.248.150:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 2833.885908126831
+  },
+  {
+    "proxy": "http://120.92.211.211:7890",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1823.2982158660889
+  },
+  {
+    "proxy": "socks4://194.87.85.207:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 1366.8816089630127
+  },
+  {
+    "proxy": "socks5://193.233.254.63:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 768.3584690093994
+  },
+  {
+    "proxy": "http://185.114.73.2:1080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 493.8383102416992
+  },
+  {
+    "proxy": "socks4://184.178.172.14:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 637.6931667327881
+  },
+  {
+    "proxy": "socks5://192.111.137.35:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 516.70241355896
+  },
+  {
+    "proxy": "socks4://2.27.18.184:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 541.7165756225586
+  },
+  {
+    "proxy": "socks5://184.178.172.14:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 593.2049751281738
+  },
+  {
+    "proxy": "socks5://72.49.49.11:31034",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1208.193063735962
+  },
+  {
+    "proxy": "socks5://209.38.249.114:1085",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1085.7257843017578
+  },
+  {
+    "proxy": "socks5://192.252.220.92:17328",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 401.0770320892334
+  },
+  {
+    "proxy": "socks4://192.252.209.155:14455",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 352.33116149902344
+  },
+  {
+    "proxy": "socks5://72.195.34.42:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 643.3794498443604
+  },
+  {
+    "proxy": "http://5.104.87.17:8051",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1404.6285152435303
+  },
+  {
+    "proxy": "socks4://72.195.114.184:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 975.264310836792
+  },
+  {
+    "proxy": "socks5://98.181.137.80:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 778.7823677062988
+  },
+  {
+    "proxy": "socks5://199.58.184.97:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 529.1223526000977
+  },
+  {
+    "proxy": "socks4://68.71.243.14:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 382.6425075531006
+  },
+  {
+    "proxy": "socks4://79.137.197.56:1081",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 2669.4107055664062
+  },
+  {
+    "proxy": "http://185.76.240.128:10002",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1329.8604488372803
+  },
+  {
+    "proxy": "http://202.58.77.195:8080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2677.391767501831
+  },
+  {
+    "proxy": "socks4://72.195.34.41:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 489.879846572876
+  },
+  {
+    "proxy": "socks5://13.212.26.15:58006",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1665.0211811065674
+  },
+  {
+    "proxy": "socks5://193.233.254.77:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1054.056167602539
+  },
+  {
+    "proxy": "socks5://47.237.132.36:1011",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1603.6608219146729
+  },
+  {
+    "proxy": "socks4://91.107.124.215:1080",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 701.127290725708
+  },
+  {
+    "proxy": "http://194.87.85.207:1080",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2813.606023788452
+  },
+  {
+    "proxy": "socks5://98.188.47.150:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 591.4669036865234
+  },
+  {
+    "proxy": "http://45.167.125.21:999",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 328.5844326019287
+  },
+  {
+    "proxy": "socks4://142.54.237.38:4145",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 406.42356872558594
+  },
+  {
+    "proxy": "socks5://150.230.249.50:1080",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 1166.8109893798828
+  },
+  {
+    "proxy": "socks5://195.62.49.77:980",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 630.5181980133057
+  },
+  {
+    "proxy": "http://167.103.144.127:8800",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 781.1603546142578
+  },
+  {
+    "proxy": "socks5://72.207.33.64:4145",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 588.8245105743408
+  },
+  {
+    "proxy": "socks5://192.111.137.37:18762",
+    "protocol": "socks5",
+    "anonymity": "elite",
+    "response_time": 425.753116607666
+  },
+  {
+    "proxy": "socks4://192.252.220.92:17328",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 337.9361629486084
+  },
+  {
+    "proxy": "http://158.160.215.167:8123",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 2651.170253753662
+  },
+  {
+    "proxy": "http://59.46.216.131:30001",
+    "protocol": "http",
+    "anonymity": "elite",
+    "response_time": 1474.3144512176514
+  },
+  {
+    "proxy": "socks4://192.252.208.70:14282",
+    "protocol": "socks4",
+    "anonymity": "elite",
+    "response_time": 350.34894943237305
   }
 ]
